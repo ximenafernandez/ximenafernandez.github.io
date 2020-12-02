@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
 
 Hi! I am a postdoc at
 [Swansea University](www.swansea.ac.uk), working with Jeffrey Gianssiracusa. I am also member of the [Centre for Topological Data Analysis](https://www.maths.ox.ac.uk/groups/topological-data-analysis). I am working on density-based methods in manifold learning, and its applications to the study of high dimensional dynamical systems.
