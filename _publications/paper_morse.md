@@ -1,5 +1,5 @@
 ---
-title: "3-deformations of 2-complexes and Morse Theory"
+subtitle: "3-deformations of 2-complexes and Morse Theory"
 collection: publications
 permalink: /publication/paper_morse
 date: 2019-12-01
