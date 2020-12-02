@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
+
 <h2> Research interests</h2>
 		<ul>
 			<li> Persistent homology theory </li>
