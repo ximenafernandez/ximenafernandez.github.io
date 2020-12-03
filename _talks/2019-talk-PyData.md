@@ -8,6 +8,7 @@ date: 2019-09-28
 location: "Córdoba, Argentina."
 ---
 Introductory talk about Topological Data Analysis and it applications to different real-life problems using Python.
+
 [Slides.](https://github.com/ximenafernandez/PyData2019TDA/blob/master/PyData2019.pdf)
 [Code.](https://github.com/ximenafernandez/PyData2019TDA)
 [Link.](https://pydata.org/cordoba2019/)

@@ -8,6 +8,6 @@ date: 2020-08-24
 location: "Córdoba, Argentina"
 ---
 
-Introductory talk of Persistent Homology for general public (in spanish).
+Introductory talk about Persistent Homology for general public (in spanish).
 [Video.](https://www.youtube.com/watch?v=R6JQAH0gPsw)
 [Code.](https://github.com/ximenafernandez/Persistent_Homology)
