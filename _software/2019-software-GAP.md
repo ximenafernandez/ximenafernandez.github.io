@@ -8,6 +8,7 @@ date: 2019-12-01
 #location: "Córdoba, Argentina"
 ---
 
+<p>
 ## Authors:
 * Ximena L. Fernández
 * Kevin I. Piterman
@@ -28,5 +29,5 @@ to load the package.
 For details on how to use the Posets package see the package
 documentation in the `doc` subdirectory (view its HTML version or 
 `manual.pdf`  via a PDF viewer).
-
+</p>
 
