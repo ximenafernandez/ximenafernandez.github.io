@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research falls into two main areas: 
+My research interests falls into two main areas: 
 * Applied Algebraic Topology: 
 * Computational Topology: 
 
