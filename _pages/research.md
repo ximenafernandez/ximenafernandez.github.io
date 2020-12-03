@@ -10,7 +10,7 @@ My research falls into two main areas:
 * Computational Topology: 
 
 
-#Publications
+## Publications
 
 <nbsp>
 
