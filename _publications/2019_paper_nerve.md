@@ -5,6 +5,7 @@ permalink: /publication/2019_paper_nerve
 date: 2019-01-01
 venue: 'Discrete and Computational Geometry.'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+link: 
 citation: 'Fernández, X.; Minian, E.G. (2019). &quot;The cylinder of a relation and generalized versions of the Nerve Theorem.&quot; <i>Discrete and Computational Geometry</i>. 63(8).'
 ---
 

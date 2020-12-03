@@ -9,4 +9,4 @@ link: 'https://arxiv.org/abs/1912.00115'
 citation: 'Fernández, X. (2019) &quot;3-deformations of 2-complexes and Morse Theory.&quot; <i>arXiv:1912.00115</i>'
 ---
 
-We introduce novel combinatorial methods to study 3-deformations of CW-complexes of dimension 2 or, equivalently, Q∗∗-transformations of group presentations. Our procedures are based on a new version of Discrete Morse Theory for n-deformations. We apply these techniques to show that some known potential counterexamples to the Andrews-Curtis conjecture do satisfy the conjecture.
+<font size="3"> We introduce novel combinatorial methods to study 3-deformations of CW-complexes of dimension 2 or, equivalently, Q∗∗-transformations of group presentations. Our procedures are based on a new version of Discrete Morse Theory for n-deformations. We apply these techniques to show that some known potential counterexamples to the Andrews-Curtis conjecture do satisfy the conjecture.</font>
