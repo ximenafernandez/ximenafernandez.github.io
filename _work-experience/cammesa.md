@@ -4,7 +4,7 @@ collection: work-experience
 type: "Specialist in Mathematical Modeling."
 permalink: /work-experience/CAMMESA
 link: 'https://portalweb.cammesa.com/default.aspx'
-date: 2018
+#date: 2018
 location: "Buenos Aires, Argentina."
 ---
 
