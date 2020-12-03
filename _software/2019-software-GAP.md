@@ -10,10 +10,9 @@ date: 2019-12-01
 
 
 **Authors:** Ximena L. Fernández, Kevin I. Piterman and Iván Sadofschi Costa.
-
 <p>A GAP package for posets and its applications.</p>
-[Code](https://github.com/isadofschi/posets)\\
-[Documentation](http://mate.dm.uba.ar/~isadofschi/posets)
+* [Code](https://github.com/isadofschi/posets)\\
+* [Documentation](http://mate.dm.uba.ar/~isadofschi/posets)
 <p>To use it, start GAP and type
 
 	LoadPackage("posets");
