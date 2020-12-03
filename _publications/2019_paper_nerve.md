@@ -1,7 +1,7 @@
 ---
 title: "<span style='font-size: 20px'> The cylinder of a relation and generalized versions of the Nerve Theorem"
 collection: publications
-permalink: /publication/paper_morse
+permalink: /publication/2019_paper_nerve
 #excerpt: '<span style='font-size: 15px'> We introduce the notion of cylinder of a relation in the context of posets, extending the construction of the mapping cylinder. We establish a local-to-global result for relations, generalizing Quillen's Theorem A for order preserving maps, and derive novel formulations of the classical Nerve Theorem for posets and simplicial complexes, suitable for covers with not necessarily contractible intersections.'
 date: 2019-01-01
 venue: 'Discrete and Computational Geometry.'
