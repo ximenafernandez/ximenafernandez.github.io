@@ -1,6 +1,6 @@
 ---
 title: "Finite Topological Spaces"
-collection: softwate
+collection: software
 type: "SAGE Module"
 permalink: /software/2017-software-SAGE
 venue: "SAGE"

@@ -1,6 +1,6 @@
 ---
 title: "Posets"
-collection: talks
+collection: software
 type: "GAP Package"
 permalink: /software/2019-software-GAP
 venue: "GAP"
@@ -12,7 +12,6 @@ date: 2019-12-01
 * Ximena L. Fernández
 * Kevin I. Piterman
 * Iván Sadofschi Costa
-
 
 A GAP package for posets and its applications.
 [Code](https://github.com/isadofschi/posets)
