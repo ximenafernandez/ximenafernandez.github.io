@@ -1,10 +1,10 @@
 ---
-title: "Finite Topological Spaces"
+title: "SAGE Module Finite Topological Spaces"
 collection: software
 type: "SAGE Module"
 permalink: /software/2017-software-SAGE
 venue: "SAGE"
-date: 2017-09-01
+date: 2017-09-07
 ---
 
 **Author:** Ximena Fernández

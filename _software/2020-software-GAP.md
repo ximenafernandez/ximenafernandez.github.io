@@ -1,5 +1,5 @@
 ---
-title: "Posets"
+title: "GAP Package Posets"
 collection: software
 type: "GAP Package"
 permalink: /software/2020-software-GAP
@@ -13,5 +13,4 @@ date: 2020-05-26
 <p>A GAP package for posets and its applications to problems in Combinatorial Group Theory.</p>
 * [Code](https://github.com/isadofschi/posets)
 * [Documentation](http://mate.dm.uba.ar/~isadofschi/posets)
-</p>
 
