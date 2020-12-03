@@ -1,25 +1,25 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-<body>
-<h2> Research interests</h2>
-		<ul>
-			<li> Persistent homology theory </li>
-			<li> Varifolds </li>
-			<li> Combinatorics of simplicial complexes </li>
-			<li> Real life applications of Topological Data Analysis </li>				
-		</ul>
+My research falls into two main areas: 
+* Applied Algebraic Topology: 
+* Computational Topology: 
 
-<h2>Publications</h2>
-		<ul>
-			<li> Persistent homology theory </li>
-			<li> Varifolds </li>
-			<li> Combinatorics of simplicial complexes </li>
-			<li> Real life applications of Topological Data Analysis </li>				
-		</ul>
-</body>
+
+#Publications
+
+<nbsp>
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
