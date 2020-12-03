@@ -7,9 +7,8 @@ venue: "PyData Córdoba2019."
 date: 2019-09-28
 location: "Córdoba, Argentina."
 ---
-
-[Slides](https://github.com/ximenafernandez/PyData2019TDA/blob/master/PyData2019.pdf) of the talk.
-[Code](https://github.com/ximenafernandez/PyData2019TDA) of the talk.
-[Link](https://pydata.org/cordoba2019/) to the conference.
-
 Introductory talk about Topological Data Analysis and it applications to different real-life problems using Python.
+[Slides.](https://github.com/ximenafernandez/PyData2019TDA/blob/master/PyData2019.pdf)
+[Code.](https://github.com/ximenafernandez/PyData2019TDA)
+[Link.(https://pydata.org/cordoba2019/)
+

@@ -9,6 +9,5 @@ location: "Córdoba, Argentina"
 ---
 
 Introductory talk of Persistent Homology for general public (in spanish).
-
-[Video](https://www.youtube.com/watch?v=R6JQAH0gPsw) of the talk.
-[Code](https://github.com/ximenafernandez/Persistent_Homology) used in the talk.
+[Video.](https://www.youtube.com/watch?v=R6JQAH0gPsw)
+[Code.](https://github.com/ximenafernandez/Persistent_Homology)
