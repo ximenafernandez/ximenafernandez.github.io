@@ -190,9 +190,7 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
-  work_experience:
-    output: true
-    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
