@@ -190,6 +190,9 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
+  work_experience:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -204,6 +207,13 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: work-experience
+    values:
+      layout: single
+      author_profile: true
   # _pages
   - scope:
       path: ""
