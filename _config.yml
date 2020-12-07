@@ -207,7 +207,14 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+  # work-experience
   - scope:
       path: ""
       type: work-experience
