@@ -9,5 +9,5 @@ location: "University of York, UK (virtual)"
 ---
 
 Talk about the results and previous work related to the article ['Intrinsic persistent homology via density-based metric learning.'](https://arxiv.org/abs/1912.02225) 
-[Slides.]("http://ximena_fernandez.github.io/files/Geometric_and_Topological_Inference_for_Data_Analysis.pdf"")
+[Slides.]("http://ximena_fernandez.github.io/files/Geometric_and_Topological_Inference_for_Data_Analysis.pdf")
 [Code.](https://github.com/ximenafernandez/intrinsicPH)
