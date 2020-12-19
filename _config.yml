@@ -214,7 +214,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # work-experience
+  # _work-experience
   - scope:
       path: ""
       type: work-experience
@@ -254,7 +254,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
