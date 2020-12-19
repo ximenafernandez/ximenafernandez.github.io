@@ -18,5 +18,5 @@ my Ph.D in Mathematics from the
 [University of Buenos Aires](http://web.dm.uba.ar/), under the supervision of [Elías Gabriel Minian](http://mate.dm.uba.ar/~gminian/). In my [thesis](http://cms.dm.uba.ar/academico/carreras/doctorado/Tesis_Ximena_Fernandez.pdf), I approached different classical problems in low dimensional Algebraic Topology from a combinatorial and computational point of view. In particular, I developed 
 [software](software) in SAGE and GAP related to the theory of Finite Topological Spaces.
 
-  My [research interests](research) concentrate on Applied Algebraic Topology, Topological Data Analysis, Computational and Combinatorial Topology. While I focus on the theoretical development of the theory, most of my current research is motivated by applications in real life problems.
+  My [research interests](research) concentrate  on Applied Algebraic Topology, Topological Data Analysis, Computational and Combinatorial Topology. While I focus on the theoretical development of the theory, most of my current research is motivated by applications in real life problems.
 
