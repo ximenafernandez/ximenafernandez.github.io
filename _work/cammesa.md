@@ -1,8 +1,8 @@
 ---
 title: "CAMMESA"
-collection: work-experience
+collection: work
 type: "Specialist in Mathematical Modelling."
-permalink: /work-experience/CAMMESA
+permalink: /work/CAMMESA
 link: 'https://portalweb.cammesa.com/default.aspx'
 #date: 2018
 location: "Buenos Aires, Argentina."
