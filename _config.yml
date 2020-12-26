@@ -190,7 +190,7 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
-  work:
+  work-experience:
     output: true
     permalink: /:collection/:path/
 
@@ -214,10 +214,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _work
+  # _work-experience
   - scope:
       path: ""
-      type: work
+      type: work-experience
     values:
       layout: single
       author_profile: true

@@ -1,8 +1,8 @@
 ---
 title: "Properati-OLX"
-collection: work
+collection: work-experience
 type: "Data Scientist"
-permalink: /work/olx        
+permalink: /work-experience/olx        
 link: 'https://properati.com/'
 #   date: 2019
 location: "Buenos Aires, Argentina"
