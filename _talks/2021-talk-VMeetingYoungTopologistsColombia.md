@@ -8,6 +8,6 @@ date: 2021-02-27
 location: "Universidad Distrital Francisco José de Caldas, Colombia (virtual)"
 ---
 
-<p>Conference for students and young graduates about manifold learning and geometric inference.<\ p>
+<p>Outreach talk for students and young graduates about manifold learning and geometric inference.</p>
 [Link.](https://semlotoud2.wixsite.com/top5/bienvenido)
 
