@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  software:
+  code:
     output: true
     permalink: /:collection/:path/
   work-experience:
@@ -207,10 +207,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # software
+  # code
   - scope:
       path: ""
-      type: software
+      type: code
     values:
       layout: single
       author_profile: true

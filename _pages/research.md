@@ -9,7 +9,7 @@ My research interests fall into two main areas:
 * Applied Algebraic Topology and Geometry,
 * Computational and Combinatorial Topology.
 
-I am specially interested in Topological Data Analysis, Geometric Inference and   Manifold Learning methods.
+I am specially interested in Topological Data Analysis, Geometric Inference and  Manifold Learning methods.
 
 
 ## Publications

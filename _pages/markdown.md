@@ -133,9 +133,9 @@ Make any link standout more when applying the `.btn` class.
   1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
 </address>
 
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
+  ### Anchor Tag (aka. Link)
+  
+  This is an example of a [link](http://github.com "Github").
 
 ### Abbreviation Tag
 

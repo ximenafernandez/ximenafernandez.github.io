@@ -1,5 +1,5 @@
 ---
-title: "Aprendizaje en variedades para el análisis de datos"
+title: "Aprendizaje en Variedades para el Análisis de Datos"
 collection: talks
 type: "Invited Conference"
 permalink: /talks/2020-talk-VMeetingYoungTopologistsColombia

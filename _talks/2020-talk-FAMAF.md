@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2020-talk-FAMAF
 venue: "FAMAF, Departamento de Matemática"
 date: 2020-08-24
-location: "Córdoba, Argentina"
+location: "Córdoba, Argentina (virtual)"
 ---
 
 Introductory talk about Persistent Homology for general public (in spanish). 
