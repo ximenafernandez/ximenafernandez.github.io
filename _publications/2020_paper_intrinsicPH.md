@@ -11,6 +11,6 @@ citation: 'Borghini, E.; Fernández, X.; Groisman, P.; Mindlin, G. (2020). &quot
 
 <p style="font-size:11pt; font-style:italic">
 We address the problem of estimating intrinsic distances in a manifold from a finite sample. We prove that the metric space defined by the sample endowed with a computable metric known as sample Fermat distance converges a.s. in the sense of Gromov-Hausdorff. The limiting object is the manifold itself endowed with the population Fermat distance, an intrinsic metric that accounts for both the geometry of the manifold and the density that produces the sample. This result is applied to obtain sample persistence diagrams that converge towards an intrinsic persistence diagram. We show that this method outperforms more standard approaches based on Euclidean norm with theoretical results and computational experiments. 
-</p>
 
 [Tutorial](https://www.youtube.com/watch?v=1lP9ndiM60o)
+</p>
