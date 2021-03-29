@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020_paper_intrinsicPH
 date: 2020-12-11
 venue: 'arXiv:2012.07621'
-paperurl: 'https://www.youtube.com/watch?v=1lP9ndiM60o'
+paperurl: Tutorial 'https://www.youtube.com/watch?v=1lP9ndiM60o'
 link: 'https://arxiv.org/abs/2012.07621'
 citation: 'Borghini, E.; Fernández, X.; Groisman, P.; Mindlin, G. (2020). &quot;Intrinsic persistent homology via density-based distance learning.&quot; <i>arXiv:2012.07621</i>'
 ---
