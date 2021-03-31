@@ -207,7 +207,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # code
+  # _code
   - scope:
       path: ""
       type: code
