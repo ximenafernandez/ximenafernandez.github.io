@@ -1,8 +1,8 @@
 ---
 title: "SAGE Module Finite Topological Spaces"
-collection: software
+collection: code
 type: "SAGE Module"
-permalink: /software/2017-software-SAGE
+permalink: /code/2017-software-SAGE
 venue: "SAGE"
 date: 2017-09-07
 ---
