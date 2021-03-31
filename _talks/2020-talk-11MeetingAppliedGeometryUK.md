@@ -2,7 +2,7 @@
 title: "Geometric and Topological Inference for Data Analysis"
 collection: talks
 type: "Conference"
-permalink: /talks/2020-talk-11MetingAppliedGeometryUK
+permalink: /talks/2020-talk-11MeetingAppliedGeometryUK
 venue: "11th meeting, Applied Algebra and Geometry in the UK"
 date: 2020-12-15
 location: "University of York, UK (virtual)"

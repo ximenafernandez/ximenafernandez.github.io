@@ -7,8 +7,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Software"
-    url: /software/
+  - title: "Code"
+    url: /code/
 
   #- title: "Teaching"
   #  url: /teaching/    
