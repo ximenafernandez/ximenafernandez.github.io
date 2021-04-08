@@ -10,6 +10,6 @@ location: "St. Petesburg (virtual)"
 
 Presentation of conference paper.
 [(Article)](http://eurocg21.spbu.ru/wp-content/uploads/2021/04/EuroCG_2021_paper_23.pdf)
-[(Poster)]((http://ximenafernandez.github.io/files/EuroCG_2021_conference_poster.pdf)
+[(Poster)](http://ximenafernandez.github.io/files/EuroCG_2021_conference_poster.pdf)
 [(Link)](http://eurocg21.spbu.ru/)
 
