@@ -1,7 +1,7 @@
 ---
 title: "Homología Persistente para el Análisis de Datos"
 collection: talks
-type: "Talk"
+type: "Invited talk"
 permalink: /talks/2020-talk-FAMAF
 venue: "FAMAF, Departamento de Matemática"
 date: 2020-08-24

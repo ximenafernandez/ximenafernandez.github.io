@@ -1,7 +1,7 @@
 ---
 title: "Topological Data Analysis and Applications. "
 collection: talks
-type: "Conference"
+type: "Contributed talk"
 permalink: /talks/2019-talk-PyData
 venue: "PyData Córdoba 2019"
 date: 2019-09-28

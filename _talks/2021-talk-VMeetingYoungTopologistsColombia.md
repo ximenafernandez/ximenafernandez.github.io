@@ -1,7 +1,7 @@
 ---
 title: "Aprendizaje en Variedades para el Análisis de Datos"
 collection: talks
-type: "Invited Conference"
+type: "Invited conference"
 permalink: /talks/2020-talk-VMeetingYoungTopologistsColombia
 venue: "V Encuentro de Jóvenes Topólogos"
 date: 2021-02-27
