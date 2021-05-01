@@ -9,6 +9,6 @@ location: "Chicago, USA (virtual)"
 ---
 
 Presentation of the homonymous [work].(https://arxiv.org/abs/2012.07621).
-[(Slides)](http://ximenafernandez.github.io/files/IMSI2021.pdf )
+[(Slides)](http://ximenafernandez.github.io/files/IMSI_2021.pdf )
 [(Link)](https://www.imsi.institute/topological-data-analysis/)
 
