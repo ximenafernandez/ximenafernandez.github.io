@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed talk"
 permalink: /talks/2021-talk-GeoTop
 venue: "The 38th Annual Workshop in Geometric Topology"
-date: 2021-04-29
+date: 2021-06-16
 location: "USA (virtual)"
 ---
 
