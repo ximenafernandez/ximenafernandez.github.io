@@ -10,3 +10,4 @@ location: "USA (virtual)"
 
 [(Slides)](http://ximenafernandez.github.io/files/Geometric_Topology_Workshop_2021.pdf )
 [(Link)](http://faculty.tcu.edu/gfriedman/GTW2021/index.html)
+[(Video)](https://www.youtube.com/watch?v=r1IbaXCEyrA&list=PLOujdvDienPu7gx86icUT8WTV9X4LT1gp&index=15)
