@@ -5,7 +5,7 @@ type: "Lightening talk"
 permalink: /talks/2021-talk-TDA
 venue: "2nd Workshop on Topological Methods in Data Analysis"
 date: 2021-10-06
-location: "Heidelberg University, Germany"
+location: "Heidelberg University, Germany (virtual)"
 ---
 
 [(Link)](https://www.mathi.uni-heidelberg.de/~mbleher/tdaworkshop21.html)
