@@ -12,7 +12,7 @@ My research interests fall into two main areas:
 I am specially interested in Topological Data Analysis, Geometric Inference and  Manifold Learning methods.
 
 
-## Publications
+## Publications & preprints
 
 <nbsp>
 
