@@ -6,7 +6,7 @@ date: 2020-04-01
 venue: 'Discrete and Computational Geometry. 63, pages 549–559 (2020)'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 link: 'https://link.springer.com/article/10.1007/s00454-018-0028-7'
-citation: 'Fernández, X.; Minian, E.G. (2020). &quot;The cylinder of a relation and generalized versions of the Nerve Theorem.&quot; <i>Discrete and Computational Geometry</i>. 63(8).'
+citation: 'Fernández, X.; Minian, E.G. (2020). &quot;The cylinder of a relation and generalized versions of the Nerve Theorem.&quot; <i>Discrete and Computational Geometry</i>. 63, pages 549–559 (2020).'
 ---
 
 <p style="font-size:11pt; font-style:italic">
