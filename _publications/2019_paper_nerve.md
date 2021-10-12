@@ -2,7 +2,7 @@
 title: "<span style='font-size: 20px'> The cylinder of a relation and generalized versions of the Nerve Theorem"
 collection: publications
 permalink: /publication/2019_paper_nerve
-date: 2020-01-01
+date: 2020-04-01
 venue: 'Discrete and Computational Geometry. 63, pages 549–559 (2020)'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 link: 'https://link.springer.com/article/10.1007/s00454-018-0028-7'
