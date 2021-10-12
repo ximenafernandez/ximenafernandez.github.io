@@ -3,10 +3,10 @@ title: "<span style='font-size: 20px'> Homotopy colimits of diagrams over posets
 collection: publications
 permalink: /publication/2016_paper_hocolim
 date: 2016-10-01
-venue: 'Homology, Homotopy and Applications.'
+venue: 'Homology, Homotopy and Applications vol. 18 issue 2.'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 link: 'https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0018/0002/a013/'
-citation: 'Fernández, X.; Minian, E.G. (2016). &quot;Homotopy colimits of diagrams over posets and variations on a theorem of Thomason.&quot; <i>Homology, Homotopy and Applications.</i>  vol. 18 issue 2.'
+#citation: 'Fernández, X.; Minian, E.G. (2016). &quot;Homotopy colimits of diagrams over posets and variations on a theorem of Thomason.&quot; <i>Homology, Homotopy and Applications.</i>  vol. 18 issue 2.'
 ---
 
 <p style="font-size:11pt; font-style:italic">

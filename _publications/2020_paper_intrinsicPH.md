@@ -6,7 +6,7 @@ date: 2020-12-11
 venue: 'arXiv:2012.07621'
 #paperurl: 
 link: 'https://arxiv.org/abs/2012.07621'
-citation: 'Borghini, E.; Fernández, X.; Groisman, P.; Mindlin, G. (2020). &quot;Intrinsic persistent homology via density-based metric learning.&quot; <i>arXiv:2012.07621</i>'
+#citation: 'Borghini, E.; Fernández, X.; Groisman, P.; Mindlin, G. (2020). &quot;Intrinsic persistent homology via density-based metric learning.&quot; <i>arXiv:2012.07621</i>'
 ---
 
 <p style="font-size:11pt; font-style:italic">

@@ -2,11 +2,11 @@
 title: "<span style='font-size: 20px'> Morse theory for group presentations"
 collection: publications
 permalink: /publication/2019_paper_morse
-date: 2021-09-09
+date: 2019-11-30
 venue: arXiv:1912.00115
 #paperurl: 'http://ximena_fernandez.github.io/files/paper_morse.pdf'
 link: 'https://arxiv.org/abs/1912.00115'
-citation: 'Fernández, X. (2021) &quot;Morse theory for group presentations.&quot; <i>arXiv:1912.00115</i>'
+#citation: 'Fernández, X. (2021) &quot;Morse theory for group presentations.&quot; <i>arXiv:1912.00115</i>'
 ---
 
 <p style="font-size:11pt; font-style:italic">
