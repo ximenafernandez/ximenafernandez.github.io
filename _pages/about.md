@@ -20,3 +20,4 @@ my Ph.D in Mathematics from the
 
 My [research interests](research) concentrate  on Applied Algebraic Topology, Topological Data Analysis, Computational and Combinatorial Topology. While I focus on the theoretical development, most of my current research is motivated by applications in real life problems.
 
+<iframe width="560" height="315" src="https://t.co/yHjJ7UHBaH?amp=1" frameborder="0" allowfullscreen></iframe>
