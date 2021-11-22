@@ -14,6 +14,14 @@ author_profile: true
 {% endfor %}
 
 
+## Tutorials
+
+{% include base_path %}
+
+{% for post in site.tutorials reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Publications
 
 {% include base_path %}
