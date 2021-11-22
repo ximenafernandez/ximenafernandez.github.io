@@ -20,4 +20,6 @@ my Ph.D in Mathematics from the
 
 My [research interests](research) concentrate  on Applied Algebraic Topology, Topological Data Analysis, Computational and Combinatorial Topology. While I focus on the theoretical development, most of my current research is motivated by applications in real life problems.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/647307701?h=0fba05e793&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ximena_Fernandez.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="http://ximenafernandez.github.io/files/1st_year_postdoc.mp4">
+</video>
