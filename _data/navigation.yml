@@ -10,8 +10,8 @@ main:
   - title: "Code"
     url: /code/
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Outreach"
+    url: /outreach/    
 
   - title: "Work Experience"
     url: /work-experience/
