@@ -16,11 +16,12 @@ author_profile: true
 
 ## Tutorials
 
-{% include base_path %}
-
-{% for post in site.tutorials reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+<li> [Discrete Morse Theory 2.0](https://www.youtube.com/watch?v=mZ2FIyg7NJ4)
+</li>
+<li> [Intrinsic Persistent Homology](https://www.youtube.com/watch?v=1lP9ndiM60o)
+</li>
+</ul>
 
 ## Publications
 
