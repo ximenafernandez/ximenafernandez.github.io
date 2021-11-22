@@ -24,8 +24,4 @@ author_profile: true
 
 ## Publications
 
-{% include base_path %}
-
-{% for post in site.publications-outreach reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Book <i>[Algebra A.]</i>(https://www.eudeba.com.ar/E-book/9789502329703/%C3%81lgebra+A) EUDEBA 
