@@ -19,7 +19,7 @@ my Ph.D in Mathematics from the
 [software](code) in SAGE and GAP related to the theory of Finite Topological Spaces.
 
 My [research interests](research) concentrate  on Applied Algebraic Topology, Topological Data Analysis, Computational and Combinatorial Topology. While I focus on the theoretical development, most of my current research is motivated by applications in real life problems.
-
-<video width="600" height="auto" controls>
+<br>
+<video width="700" height="auto" controls>
   <source type="video/mp4" src="http://ximenafernandez.github.io/files/1st_year_postdoc.mp4">
 </video>
