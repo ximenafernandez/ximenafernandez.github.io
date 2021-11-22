@@ -5,13 +5,12 @@ permalink: /outreach/
 author_profile: true
 ---
 
-## Talks
-
 {% include base_path %}
 
-{% for post in site.talks-outreach reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Talks
+
+[Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA](https://lcd.exactas.uba.ar/sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez/)
+
 
 
 ## Tutorials
