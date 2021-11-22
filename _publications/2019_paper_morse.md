@@ -13,3 +13,4 @@ link: 'https://arxiv.org/abs/1912.00115'
 We introduce a novel combinatorial method to study Q∗∗-transformations of group presentations or, equivalently, 3-deformations of CW-complexes of dimension 2. Our procedure is based on a refinement of discrete Morse theory that gives a Whitehead simple homotopy equivalence from a regular CW-complex to the simplified Morse CW-complex, with an explicit description of the attaching maps and bounds on the dimension of the complexes involved in the deformation. We apply this technique to show that some known potential counterexamples to the Andrews-Curtis conjecture do satisfy the conjecture.
 </p>
 [Code.](https://github.com/ximenafernandez/Finite-Topological-Spaces)
+[Tutorial.](https://www.youtube.com/watch?v=mZ2FIyg7NJ4)
