@@ -12,7 +12,6 @@ author_profile: true
 [Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA](https://lcd.exactas.uba.ar/sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez/) (Spanish)
 
 
-
 ## Tutorials
 
 
@@ -24,4 +23,4 @@ author_profile: true
 
 ## Publications
 
-Book <i>[Algebra A.]</i>(https://www.eudeba.com.ar/E-book/9789502329703/%C3%81lgebra+A) EUDEBA 
+Book [Algebra A.](https://www.eudeba.com.ar/E-book/9789502329703/%C3%81lgebra+A) EUDEBA 
