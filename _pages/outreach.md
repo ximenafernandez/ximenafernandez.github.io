@@ -16,7 +16,7 @@ author_profile: true
 
 
 
-## Tutorials
+## Video Tutorials
 
 * [Discrete Morse Theory 2.0](https://www.youtube.com/watch?v=mZ2FIyg7NJ4)
 
