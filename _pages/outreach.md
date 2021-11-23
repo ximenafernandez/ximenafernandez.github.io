@@ -8,7 +8,7 @@ author_profile: true
 
 ## Talks
 
-* [Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA](https://www.youtube.com/watch?v=8EDJNRZtxZs&list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI) (Oct 2021) __Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.__
+* [Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA](https://www.youtube.com/watch?v=8EDJNRZtxZs&list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI) (Oct 2021) _Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires._
 
 * [La Persistencia de la Homología en series temporales](https://www.youtube.com/watch?v=f_Npg6HNSn0&t=59s) (Jul 2021) Seminario Machin Lenin, Instituto del Calculo, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.
 
