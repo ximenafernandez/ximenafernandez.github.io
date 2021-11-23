@@ -8,11 +8,11 @@ author_profile: true
 
 ## Talks
 
-* [Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA](https://lcd.exactas.uba.ar/sobre-dobles-triples-y-datos-guia-para-armar-un-equipo-ganador-en-la-nba-por-ximena-fernandez/) (Spanish, Nov 2021)
+* [Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA](https://www.youtube.com/watch?v=8EDJNRZtxZs&list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI) (Spanish, Nov 2021) Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
 
-* [La Persistencia de la Homología en series temporales](https://www.youtube.com/watch?v=f_Npg6HNSn0&t=59s) (Spanish, Jul 2021) Machin Lenin Seminar
+* [La Persistencia de la Homología en series temporales](https://www.youtube.com/watch?v=f_Npg6HNSn0&t=59s) (Spanish, Jul 2021) Seminario Machin Lenin, Instituto del Calculo, Facultad de Ciencias Rxactas y Naturales, Universidad de Buenos Aires.
 
-* [Aprendizaje en Variedades para el Análisis Topológico de Datos](http://ximenafernandez.github.io/files/V_Encuentro_de_Jovenes_Topologos_Colombia.pdf) (Spanish, Feb 2021) [V Encuentro de Jovenes Topologos](https://semlotoud2.wixsite.com/top5/bienvenido)
+* [Aprendizaje en Variedades para el Análisis Topológico de Datos](http://ximenafernandez.github.io/files/V_Encuentro_de_Jovenes_Topologos_Colombia.pdf) (Spanish, Feb 2021) [V Encuentro de Jovenes Topologos](https://semlotoud2.wixsite.com/top5/bienvenido), Universidad Distrital Francisco José de Caldas
 
 
 
