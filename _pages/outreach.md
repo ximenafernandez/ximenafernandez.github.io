@@ -8,11 +8,11 @@ author_profile: true
 
 ## Talks
 
-* [Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA](https://www.youtube.com/watch?v=8EDJNRZtxZs&list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI) (Oct 2021) _Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires._
+* [Sobre dobles, triples y datos: guía para armar un equipo ganador en la NBA](https://www.youtube.com/watch?v=8EDJNRZtxZs&list=PL0CgMPgsgatX5rXQyJfyDRhyvIQRe0tmI) (Oct 2021) Semana de las Ciencias de Datos. _Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires._
 
-* [La Persistencia de la Homología en series temporales](https://www.youtube.com/watch?v=f_Npg6HNSn0&t=59s) (Jul 2021) Seminario Machin Lenin, Instituto del Calculo, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.
+* [La Persistencia de la Homología en series temporales](https://www.youtube.com/watch?v=f_Npg6HNSn0&t=59s) (Jul 2021) Seminario Machin Lenin. _Instituto del Calculo, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires._
 
-* [Aprendizaje en Variedades para el Análisis Topológico de Datos](http://ximenafernandez.github.io/files/V_Encuentro_de_Jovenes_Topologos_Colombia.pdf) (Feb 2021) [V Encuentro de Jovenes Topologos](https://semlotoud2.wixsite.com/top5/bienvenido), Universidad Distrital Francisco José de Caldas.
+* [Aprendizaje en Variedades para el Análisis Topológico de Datos](http://ximenafernandez.github.io/files/V_Encuentro_de_Jovenes_Topologos_Colombia.pdf) (Feb 2021) [V Encuentro de Jovenes Topologos](https://semlotoud2.wixsite.com/top5/bienvenido). _Universidad Distrital Francisco José de Caldas._
 
 
 
