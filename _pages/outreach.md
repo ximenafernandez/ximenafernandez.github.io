@@ -12,7 +12,7 @@ author_profile: true
 
 * [La Persistencia de la Homología en series temporales](https://www.youtube.com/watch?v=f_Npg6HNSn0&t=59s) (Jul 2021) **Seminario Machin Lenin.** _Instituto del Calculo, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires._
 
-* [Aprendizaje en Variedades para el Análisis Topológico de Datos](http://ximenafernandez.github.io/files/V_Encuentro_de_Jovenes_Topologos_Colombia.pdf) (Feb 2021) [V Encuentro de Jovenes Topologos](https://semlotoud2.wixsite.com/top5/bienvenido). _Universidad Distrital Francisco José de Caldas._
+* [Aprendizaje en Variedades para el Análisis Topológico de Datos](http://ximenafernandez.github.io/files/V_Encuentro_de_Jovenes_Topologos_Colombia.pdf) (Feb 2021) [**V Encuentro de Jovenes Topologos**](https://semlotoud2.wixsite.com/top5/bienvenido). _Universidad Distrital Francisco José de Caldas._
 
 
 
