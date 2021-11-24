@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-size: 20px'> Intrinsic persistent homology via density-based distance learning."
+title: "<span style='font-size: 20px'> Intrinsic persistent homology via density-based metric learning."
 collection: publications
 permalink: /publication/2020_paper_intrinsicPH
 date: 2020-12-11
