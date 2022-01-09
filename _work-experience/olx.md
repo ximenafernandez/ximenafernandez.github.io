@@ -4,7 +4,7 @@ collection: work-experience
 type: "Data Scientist"
 permalink: /work-experience/olx        
 link: 'https://properati.com/'
-#   date: 2019
+date: 2019
 location: "Buenos Aires, Argentina"
 ---
 
