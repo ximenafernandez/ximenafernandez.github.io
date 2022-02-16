@@ -9,6 +9,7 @@ location: "Basque Center for Applied Mathematics in Bilbao, Basque Country, Spai
 ---
 
 [(Link)](https://https://sites.google.com/view/dsabns2022/home?authuser=0)
+[(Slides)](https://ximenafernandez.github.io/reveal.js-presentations/slides/Epilepsy.html#/)
 
 
 

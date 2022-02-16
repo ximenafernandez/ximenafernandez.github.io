@@ -8,4 +8,5 @@ date: 2021-11-19
 location: Oxford University, England, UK
 ---
 
+[(Slides)](https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance.html#/)
 
