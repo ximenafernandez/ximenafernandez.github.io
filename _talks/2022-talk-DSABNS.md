@@ -1,5 +1,5 @@
 ---
-title: "Topological methods for real time detection of epileptic seizures in electroencephalographic recordings"
+title: "Topological methods for real time detection of epileptic seizures in EEG recordings"
 collection: talks
 type: "Contributed talk"
 permalink: /talks/2022-talk-Bilbao
