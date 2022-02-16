@@ -10,5 +10,5 @@ link: 'https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/
 ---
 
 <p style="font-size:11pt; font-style:italic">
-We use a classical result of McCord and reduction methods of finite spaces to prove a generalization of Thomason’s theorem on homotopy colimits over posets. In particular, this allows us to characterize the homotopy colimits of diagrams of simplicial complexes in terms of the Grothendieck construction on the diagrams of their face posets. We also derive analogues of well known results on homotopy colimits in the combinatorial setting, including a cofinality theorem and a generalization of Quillen’s Theorem A for posets.
+(with E.G. Minian) We use a classical result of McCord and reduction methods of finite spaces to prove a generalization of Thomason’s theorem on homotopy colimits over posets. In particular, this allows us to characterize the homotopy colimits of diagrams of simplicial complexes in terms of the Grothendieck construction on the diagrams of their face posets. We also derive analogues of well known results on homotopy colimits in the combinatorial setting, including a cofinality theorem and a generalization of Quillen’s Theorem A for posets.
 </p>

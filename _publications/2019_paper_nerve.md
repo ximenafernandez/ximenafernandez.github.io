@@ -10,5 +10,5 @@ link: 'https://link.springer.com/article/10.1007/s00454-018-0028-7'
 ---
 
 <p style="font-size:11pt; font-style:italic">
-We introduce the notion of cylinder of a relation in the context of posets, extending the construction of the mapping cylinder. We establish a local-to-global result for relations, generalizing Quillen's Theorem A for order preserving maps, and derive novel formulations of the classical Nerve Theorem for posets and simplicial complexes, suitable for covers with not necessarily contractible intersections.
+(with E.G. Minian) We introduce the notion of cylinder of a relation in the context of posets, extending the construction of the mapping cylinder. We establish a local-to-global result for relations, generalizing Quillen's Theorem A for order preserving maps, and derive novel formulations of the classical Nerve Theorem for posets and simplicial complexes, suitable for covers with not necessarily contractible intersections.
 </p>
