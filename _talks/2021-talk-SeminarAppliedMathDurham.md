@@ -8,6 +8,7 @@ date: 2021-10-13
 location: "Durham University, England, UK"
 ---
 
+[(Slides)](https://ximenafernandez.github.io/reveal.js-presentations/slides/TimeSeries.html#/)
 
 
 
