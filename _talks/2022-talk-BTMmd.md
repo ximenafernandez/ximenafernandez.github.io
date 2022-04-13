@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed talk"
 permalink: /talks/2022-talk-BTM
 venue: "35th British Topology Meeting"
-date: 2022-03-14
+date: 2022-04-12
 location: "Durham University, UK"
 ---
 
