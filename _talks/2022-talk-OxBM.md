@@ -4,7 +4,7 @@ collection: talks
 type: "Invited talk"
 permalink: /talks/2022-talk-OxBM
 venue: "Brain Modelling Seminar"
-date: 2022-01-21
+date: 2022-06-21
 location: "Oxford University, UK"
 ---
 
