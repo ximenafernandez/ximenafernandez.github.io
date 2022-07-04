@@ -1,5 +1,5 @@
 ---
-title: "The persistent fundamental group of pointclouds"
+title: "The persistent fundamental group of point clouds"
 collection: talks
 type: "Invited talk"
 permalink: /talks/2022-talk-GETCO
