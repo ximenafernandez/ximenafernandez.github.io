@@ -1,7 +1,7 @@
 ---
 title: "The persistent fundamental group of point clouds"
 collection: talks
-type: "Invited talk"
+type: "Contributed talk"
 permalink: /talks/2022-talk-GETCO
 venue: "11th International Conference on Geometric and Topological Methods in Computer Science (GETCO 2022)"
 date: 2022-06-02
