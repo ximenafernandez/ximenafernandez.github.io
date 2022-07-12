@@ -9,7 +9,6 @@ location: "Durham University, UK"
 ---
 
 [(Link)](https://www.maths.dur.ac.uk/users/dirk.schuetz/BTM35.html)
-[(Slides)](https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse.html#/)
 
 
 
