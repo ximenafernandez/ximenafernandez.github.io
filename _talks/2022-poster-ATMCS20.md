@@ -2,8 +2,8 @@
 title: "Topology of the neural connectivity of grid cells"
 collection: talks
 type: "Poster"
-permalink: /talks/2022-poster-ATMCS20
-venue: "ATMCS 20"
+permalink: /talks/2022-poster-ATMCS10
+venue: "ATMCS 10"
 date: 2022-06-20
 location: "Oxford University, UK"
 ---
