@@ -162,9 +162,9 @@ Contributed talk, <a href="https://www.imsi.institute/topological-data-analysis/
 <span style="font-size: 14px">
 <span style = "color: grey">
  April 08, 2021.</span>
-Conference paper, 37th European Workshop on Computational Geometry (EuroCG 2021), St. Petesburg (virtual)
+Contributed paper, 37th European Workshop on Computational Geometry (<a href="http://eurocg21.spbu.ru/">EuroCG 2021</a>), St. Petesburg (virtual)
 <br>
-(Conference paper)(Poster)</span>
+<a href="http://eurocg21.spbu.ru/wp-content/uploads/2021/04/EuroCG_2021_paper_23.pdf">(Conference paper)</a><a href="http://ximenafernandez.github.io/files/EuroCG_2021_conference_poster.pdf">(Poster)</a></span>
 </li>
 
 <li> <b>Geometric and Topological Inference for Data Analysis.</b>
