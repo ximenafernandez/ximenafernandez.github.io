@@ -76,18 +76,18 @@ author_profile: true
 
 <li> <b>Topological methods for real time detection of epileptic seizures in EEG recordings.</b>
 <br>
+<span style="font-size: 14px">
 <span style = "color: grey">February 08, 2022.</span>
-<i>Contributed talk,</i> 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences (DSABNS 2022), Basque Center for Applied Mathematics in Bilbao, Basque Country, Spain (virtual)
-<br>
-(Slides)
+<i>Contributed talk,</i> 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences <a href="https://sites.google.com/view/dsabns2022/home?authuser=0">(DSABNS 2022)</a>, Basque Center for Applied Mathematics in Bilbao, Basque Country, Spain (virtual)
+</span>
 </li>
 
 <li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
 <br><span style="font-size: 14px">
 <span style = "color: grey">November 19, 2021.</span>
-<i>Invited talk,</i> Centre for Topological Data Analysis Group Meeting, Oxford University, England, UK.
+<i>Invited talk,</i> <a hreff="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">UK Centre for Topological Data Analysis</a> Group Meeting, Oxford University, England, UK.
 <br>
-(Slides)
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance.html#/">(Slides)</a>
 </span>
 </li>
 
@@ -98,7 +98,7 @@ author_profile: true
  October 28, 2021.</span>
 Invited talk, Geometry and Topology Seminar, Durham University, England, UK
 <br>
-(Slides) (Video)
+<a href="https://www.youtube.com/watch?v=DYDL8MZwxLs">(Video)</a>
 </span>
 </li>
 
