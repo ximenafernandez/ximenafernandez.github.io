@@ -87,7 +87,7 @@ author_profile: true
 <span style = "color: grey">November 19, 2021.</span>
 <i>Invited talk,</i> <a hreff="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">UK Centre for Topological Data Analysis</a> Group Meeting, Oxford University, UK.
 <br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance.html#/">(Slides)</a>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance.html#/">(Slides)</a><a href="https://arxiv.org/abs/2012.07621">(Paper)</a>
 </span>
 </li>
 
