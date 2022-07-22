@@ -23,7 +23,6 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">July 20, 2022.</span>
-<br>
 <i>Invited talk</i>, <a href="https://www.aatrn.net">Applied Topology Seminar</a>, AATRN Youtube Channel, Online.
 <br>
 <a href="https://arxiv.org/abs/1912.00115">(Paper)</a ><a href="https://github.com/ximenafernandez/Finite-Topological-Spaces">(Code)</a><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_AATRN.html#/">(Slides)</a><a href=" https://www.youtube.com/watch?v=f62fRQdizAI">(Video)</a>
@@ -33,7 +32,7 @@ author_profile: true
 <li><b> From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
 <br>
 <span style="font-size: 14px">
-<span style = "color: grey">June 21, 2022.</span> <i>Invited talk</i>, Mathematical Brain Modelling Seminar (OxMBM), Oxford University, UK.
+<span style = "color: grey">June 21, 2022.</span> <i>Invited talk</i>, <a href="http://goriely.com/research/brain">Mathematical Brain Modelling Seminar (OxMBM)</a>, Oxford University, UK.
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/BrainModelling.html#/">(Slides)</a>
 </span>
@@ -43,23 +42,26 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
  <span style = "color: grey">June 20, 2022.</span>
- <i>Poster</i>, ATMCS 10, Oxford University, UK.
+ <i>Poster</i>, <a href="https://atmcs.web.ox.ac.uk">ATMCS 10</a>, Oxford University, UK.
  <br>
-(Poster)
+<a href="http://ximenafernandez.github.io/files/ATMCS_2022_conference_poster_Oxford.pdf">(Poster)</a><a href="https://www.biorxiv.org/content/10.1101/2022.06.13.495956v1">(Paper)</a>
 </span>
 </li>
 
 <li> <b>The persistent fundamental group of point clouds.</b>
 <br>
+<span style="font-size: 14px">
 <span style = "color: grey">June 02, 2022.</span>
-<i>Contributed talk</i>, 11th International Conference on Geometric and Topological Methods in Computer Science (GETCO 2022), EPITA School of Engineering and Computer Science, Paris, France.
-<br>
+<i>Contributed talk</i>, 11th International Conference on Geometric and Topological Methods in Computer Science <a href="http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/getco22/">(GETCO 2022)</a>, EPITA School of Engineering and Computer Science, Paris, France.
+</span>
 </li>
 
 <li> <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
+<span style="font-size: 14px">
 <span style = "color: grey">May 13, 2022.</span>
-<i>Invited talk,</i> 116 Triangle Transpennine Topology Meeting, Liverpool University, UK.
+<i>Invited talk,</i> <a href="http://sarah-whitehouse.staff.shef.ac.uk/ttt/TTT116.html">116 Triangle Transpennine Topology Meeting</a>, Liverpool University, UK.
+</span>
 </li>
 
 <li> <b>Morse theory for group presentations and the persistent fundamental group.</b>
