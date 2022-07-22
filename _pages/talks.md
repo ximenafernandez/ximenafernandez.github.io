@@ -21,24 +21,24 @@ author_profile: true
   <li>
 <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
- July 20, 2022.
- <br>
+<b style = "color: grey">July 20, 2022.</span>
 Invited talk, Applied Topology Seminar, AATRN Youtube Channel, Online
 (Slides) (Video)
 </li>
 
 <li><b>From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
 
-June 21, 2022.
-Invited talk, Brain Modelling Seminar, Oxford University, UK
+June 21, 2022. Invited talk, Brain Modelling Seminar, Oxford University, UK.
 
 (Slides)
 </li>
 
-* Topology of the neural connectivity of grid cells
- June 20, 2022. Poster, ATMCS 10, Oxford University, UK
-
-(Poster) (Link)
+<li>Topology of the neural connectivity of grid cells.
+<br>
+ June 20, 2022. Poster, ATMCS 10, Oxford University, UK.
+ <br>
+(Poster)
+</li>
 
 * The persistent fundamental group of point clouds.
 
