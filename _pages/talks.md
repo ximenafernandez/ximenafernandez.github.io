@@ -118,9 +118,9 @@ Invited talk, Applied Math Seminar, Durham University, England, UK
 <span style="font-size: 14px">
 <span style = "color: grey">
  October 06, 2021.</span>
-Lightening talk, 2nd Workshop on Topological Methods in Data Analysis, Heidelberg University, Germany (virtual)
+Lightening talk, <a href="https://www.mathi.uni-heidelberg.de/~mbleher/tdaworkshop21.html">2nd Workshop on Topological Methods in Data Analysis</a>, Heidelberg University, Germany (virtual)
 <br>
-(Slides)
+(Paper)
 </span>
 </li>
 
@@ -129,9 +129,9 @@ Lightening talk, 2nd Workshop on Topological Methods in Data Analysis, Heidelber
 <span style="font-size: 14px">
 <span style = "color: grey">
  July 16, 2021.</span>
-Invited talk, Mathematical Congress of the Americas 2021, Universidad de Buenos Aires, Argentina (virtual)
+Invited talk, <a href="https://www.mca2021.org/en/tools/view-abstract?code=2858)">Mathematical Congress of the Americas 2021</a>, Universidad de Buenos Aires, Argentina (virtual)
 <br>
-(Paper)(Slides)(Video)
+(Paper)(Slides)<a href="https://www.youtube.com/watch?v=ftWf1-klsOc&t=466s">(Video)</a>
 </span>
 </li>
 
