@@ -21,7 +21,7 @@ author_profile: true
 <li>
 <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
-<span style="font-size: 16px">
+<span style="font-size: 14px">
 <span style = "color: grey">July 20, 2022.</span>
 <br>
 <i>Invited talk</i>, <a href="https://www.aatrn.net">Applied Topology Seminar</a>, AATRN Youtube Channel, Online.
@@ -32,19 +32,21 @@ author_profile: true
 
 <li><b> From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
 <br>
-<span style="font-size: 16px">
-<span style = "color: grey">June 21, 2022.</span> <i>Invited talk</i>, Brain Modelling Seminar, Oxford University, UK.
+<span style="font-size: 14px">
+<span style = "color: grey">June 21, 2022.</span> <i>Invited talk</i>, Mathematical Brain Modelling Seminar (OxMBM), Oxford University, UK.
 <br>
-(Slides)
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/BrainModelling.html#/">(Slides)</a>
 </span>
 </li>
 
 <li> <b>Topology of the neural connectivity of grid cells.</b>
 <br>
+<span style="font-size: 14px">
  <span style = "color: grey">June 20, 2022.</span>
  <i>Poster</i>, ATMCS 10, Oxford University, UK.
  <br>
 (Poster)
+</span>
 </li>
 
 <li> <b>The persistent fundamental group of point clouds.</b>
@@ -134,10 +136,11 @@ Conference paper, 37th European Workshop on Computational Geometry (EuroCG 2021)
 </li>
 
 <li> <b>Geometric and Topological Inference for Data Analysis.</b>
- December 15, 2020
-Invited talk, 11th meeting, Applied Algebra and Geometry in the UK, University of York, UK (virtual)
+<span style = "color: grey">December 15, 2020</span>
 <br>
-(Paper)(Slides)
+<i>Invited talk, <a https://sites.google.com/view/appliedalgebraandgeometry/home/11th-meeting-york-online?authuser=0>11th meeting, Applied Algebra and Geometry in the UK</a>, University of York, UK (virtual)
+<br>
+(Paper)<a href="http://ximenafernandez.github.io/files/Geometric_and_Topological_Inference_for_Data_Analysis.pdf">(Slides)</a>
 </li>
 
 <li> <b>Homología Persistente para el Análisis de Datos.</b>
