@@ -20,20 +20,20 @@ author_profile: true
 <ul>
   <li>
 <b>Morse theory for group presentations and the persistent fundamental group.</b>
+<br>
  July 20, 2022.
+ <br>
 Invited talk, Applied Topology Seminar, AATRN Youtube Channel, Online
-(Slides)
+(Slides) (Video)
 </li>
-</ul>
 
-
-
-* From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.
+<li><b>From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
 
 June 21, 2022.
 Invited talk, Brain Modelling Seminar, Oxford University, UK
 
 (Slides)
+</li>
 
 * Topology of the neural connectivity of grid cells
  June 20, 2022. Poster, ATMCS 10, Oxford University, UK
@@ -131,3 +131,4 @@ Introductory talk about Persistent Homology for general public (in spanish). (Vi
 Contributed talk, PyData Córdoba 2019, UTN. Córdoba, Argentina.
 
 Introductory talk about TDA and applications to real-life problems using Python. (Slides). (Code). (Link).
+</ul>
