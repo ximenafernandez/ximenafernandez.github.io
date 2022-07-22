@@ -26,7 +26,7 @@ author_profile: true
 <br>
 <i>Invited talk</i>, <a href="https://www.aatrn.net">Applied Topology Seminar</a>, AATRN Youtube Channel, Online.
 <br>
-<a href="https://arxiv.org/abs/1912.00115">(Paper)</a href="https://github.com/ximenafernandez/Finite-Topological-Spaces"><a>(Code)</a><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_AATRN.html#/">(Slides)</a><a href=" https://www.youtube.com/watch?v=f62fRQdizAI">(Video)</a>
+<a href="https://arxiv.org/abs/1912.00115">(Paper)</a ><a href="https://github.com/ximenafernandez/Finite-Topological-Spaces">(Code)</a><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_AATRN.html#/">(Slides)</a><a href=" https://www.youtube.com/watch?v=f62fRQdizAI">(Video)</a>
 </span>
 </li>
 
