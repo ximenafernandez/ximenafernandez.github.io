@@ -29,9 +29,11 @@ author_profile: true
 
 <li><b> From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
 <br>
+<span style="font-size: 18px">
 <span style = "color: grey">June 21, 2022.</span> <i>Invited talk</i>, Brain Modelling Seminar, Oxford University, UK.
 <br>
 (Slides)
+</span>
 </li>
 
 <li> <b>Topology of the neural connectivity of grid cells.</b>
@@ -47,7 +49,6 @@ author_profile: true
 <span style = "color: grey">June 02, 2022.</span>
 <i>Contributed talk</i>, 11th International Conference on Geometric and Topological Methods in Computer Science (GETCO 2022), EPITA School of Engineering and Computer Science, Paris, France.
 <br>
-(Link)(Slides)
 </li>
 
 <li> <b>Morse theory for group presentations and the persistent fundamental group.</b>
