@@ -22,68 +22,73 @@ author_profile: true
 <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
 <span style = "color: grey">July 20, 2022.</span>
-Invited talk, <a href="https://www.aatrn.net">Applied Topology Seminar</a>, AATRN Youtube Channel, Online.
+<i>Invited talk</i>, <a href="https://www.aatrn.net">Applied Topology Seminar</a>, AATRN Youtube Channel, Online.
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_AATRN.html#/">(Slides)</a><a href=" https://www.youtube.com/watch?v=f62fRQdizAI">(Video)</a>
 </li>
 
 <li><b> From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
 <br>
-June 21, 2022. Invited talk, Brain Modelling Seminar, Oxford University, UK.
+<span style = "color: grey">June 21, 2022.</span> <i>Invited talk</i>, Brain Modelling Seminar, Oxford University, UK.
 <br>
 (Slides)
 </li>
 
 <li> <b>Topology of the neural connectivity of grid cells.</b>
 <br>
- June 20, 2022. Poster, ATMCS 10, Oxford University, UK.
+ <span style = "color: grey">June 20, 2022.</span>
+ <i>Poster</i>, ATMCS 10, Oxford University, UK.
  <br>
 (Poster)
 </li>
 
-<li> <b>he persistent fundamental group of point clouds.</b>
-
-June 02, 2022.
-
-Contributed talk, 11th International Conference on Geometric and Topological Methods in Computer Science (GETCO 2022), EPITA School of Engineering and Computer Science, Paris, France
-
-(Link) (Slides)
+<li> <b>The persistent fundamental group of point clouds.</b>
+<br>
+<span style = "color: grey">June 02, 2022.</span>
+<i>Contributed talk</i>, 11th International Conference on Geometric and Topological Methods in Computer Science (GETCO 2022), EPITA School of Engineering and Computer Science, Paris, France.
+<br>
+(Link)(Slides)
 </li>
 
 <li> <b>Morse theory for group presentations and the persistent fundamental group.</b>
- May 13, 2022.
-Invited talk, 116 Triangle Transpennine Topology Meeting, Liverpool University, UK
+<br>
+<span style = "color: grey">May 13, 2022.</span>
+<i>Invited talk,</i> 116 Triangle Transpennine Topology Meeting, Liverpool University, UK.
 </li>
 
 <li> <b>Morse theory for group presentations and the persistent fundamental group.</b>
+<br>
  April 14, 2022.
-Contributed talk, 35th British Topology Meeting, Durham University, UK
-
+<i>Contributed talk,</i> 35th British Topology Meeting, Durham University, UK.
+<br>
 (Slides)
 </li>
 
 <li> <b>Topological methods for real time detection of epileptic seizures in EEG recordings.</b>
- February 08, 2022.
-Contributed talk, 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences (DSABNS 2022), Basque Center for Applied Mathematics in Bilbao, Basque Country, Spain (virtual)
+<br>
+<span style = "color: grey">February 08, 2022.</span>
+<i>Contributed talk,</i> 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences (DSABNS 2022), Basque Center for Applied Mathematics in Bilbao, Basque Country, Spain (virtual)
+<br>
+(Slides)
+</li>
+
+<li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
+<br>
+<span style = "color: grey">November 19, 2021.</span>
+<i>Invited talk,</i> Centre for Topological Data Analysis Group Meeting, Oxford University, England, UK.
 
 (Slides)
 </li>
 
-<li> Density-based intrinsic persistent homology and applications to time series analysis
- November 19, 2021.
-Talk, Centre for Topological Data Analysis Group Meeting, Oxford University, England, UK
-
-(Slides)
-</li>
-
-<li> Morse theory for group presentations
+<li> <b>Morse theory for group presentations.</b>
+<br>
  October 28, 2021.
 Invited talk, Geometry and Topology Seminar, Durham University, England, UK
-
+<br>
 (Slides) (Video)
 </li>
 
-<li> Topological time series analysis
+<li><b>Topological time series analysis.</b>
  October 13, 2021.
 Invited talk, Applied Math Seminar, Durham University, England, UK
 
