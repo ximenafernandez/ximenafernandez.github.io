@@ -120,7 +120,7 @@ Invited talk, Applied Math Seminar, Durham University, UK
  October 06, 2021.</span>
 Lightening talk, <a href="https://www.mathi.uni-heidelberg.de/~mbleher/tdaworkshop21.html">2nd Workshop on Topological Methods in Data Analysis</a>, Heidelberg University, Germany (virtual)
 <br>
-(Paper)
+<a href="https://arxiv.org/abs/2012.07621">(Paper)</a>
 </span>
 </li>
 
@@ -131,7 +131,7 @@ Lightening talk, <a href="https://www.mathi.uni-heidelberg.de/~mbleher/tdaworksh
  July 16, 2021.</span>
 Invited talk, <a href="https://www.mca2021.org/en/tools/view-abstract?code=2858)">Mathematical Congress of the Americas 2021</a>, Universidad de Buenos Aires, Argentina (virtual)
 <br>
-(Paper)(Slides)<a href="https://www.youtube.com/watch?v=ftWf1-klsOc&t=466s">(Video)</a>
+<a href="https://arxiv.org/abs/1912.00115">(Paper)</a>(Slides)<a href="https://www.youtube.com/watch?v=ftWf1-klsOc&t=466s">(Video)</a>
 </span>
 </li>
 
@@ -142,7 +142,7 @@ Invited talk, <a href="https://www.mca2021.org/en/tools/view-abstract?code=2858)
  June 16, 2021.</span>
 Contributed talk,  <a href="http://faculty.tcu.edu/gfriedman/GTW2021/index.html">38th Annual Workshop in Geometric Topology</a>, USA (virtual)
 <br>
-(Paper)(Slides)<a href="https://www.youtube.com/watch?v=r1IbaXCEyrA&list=PLOujdvDienPu7gx86icUT8WTV9X4LT1gp&index=15">(Video)</a>
+<a href="https://arxiv.org/abs/2012.07621">(Paper)</a>(Slides)<a href="https://www.youtube.com/watch?v=r1IbaXCEyrA&list=PLOujdvDienPu7gx86icUT8WTV9X4LT1gp&index=15">(Video)</a>
 </span>
 </li>
 
@@ -153,7 +153,7 @@ Contributed talk,  <a href="http://faculty.tcu.edu/gfriedman/GTW2021/index.html"
  April 29, 2021.</span>
 Contributed talk, <a href="https://www.imsi.institute/topological-data-analysis/">IMSI Topological Data Anaysis Workshop 2021</a>, Chicago, USA (virtual)
 <br>
-(Paper)(Slides)<a hreff="https://www.imsi.institute/videos/intrinsic-persistent-homology-via-density-based-metric-learning/">(Video)</a>
+<a href="https://arxiv.org/abs/2012.07621">(Paper)</a>(Slides)<a hreff="https://www.imsi.institute/videos/intrinsic-persistent-homology-via-density-based-metric-learning/">(Video)</a>
 </span>
 </li>
 
@@ -173,7 +173,7 @@ Contributed paper, 37th European Workshop on Computational Geometry (<a href="ht
 <span style = "color: grey">December 15, 2020</span>
 <i>Invited talk</i>, <a href="https://sites.google.com/view/appliedalgebraandgeometry/home/11th-meeting-york-online?authuser=0">11th meeting, Applied Algebra and Geometry in the UK</a>, University of York, UK (virtual)
 <br>
-(Paper)<a href="http://ximenafernandez.github.io/files/Geometric_and_Topological_Inference_for_Data_Analysis.pdf">(Slides)</a>
+<a href="https://arxiv.org/abs/2012.07621">(Paper)</a>
 </span>
 </li>
 
@@ -193,7 +193,7 @@ Contributed paper, 37th European Workshop on Computational Geometry (<a href="ht
 <span style = "color: grey">September 28, 2019.</span>
 <i>Contributed talk,</i> <a href="https://pydata.org/cordoba2019/">PyData Córdoba 2019</a>, UTN. Córdoba, Argentina.
 <br>
-<a href="https://github.com/ximenafernandez/PyData2019TDA/blob/master/PyData2019.pdf">(Slides)</a><a href="https://github.com/ximenafernandez/PyData2019TDA">(Code)</a>
+<a href="https://github.com/ximenafernandez/PyData2019TDA">(Code)</a>
 </span>
 </li>
 </ul>
