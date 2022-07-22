@@ -17,7 +17,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 -->
-
+<ul>
 <li>
 <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
@@ -80,7 +80,7 @@ author_profile: true
 <br>
 <span style = "color: grey">November 19, 2021.</span>
 <i>Invited talk,</i> Centre for Topological Data Analysis Group Meeting, Oxford University, England, UK.
-
+<br>
 (Slides)
 </li>
 
@@ -95,41 +95,41 @@ Invited talk, Geometry and Topology Seminar, Durham University, England, UK
 <li><b>Topological time series analysis.</b>
  October 13, 2021.
 Invited talk, Applied Math Seminar, Durham University, England, UK
-
+<br>
 (Slides)
 </li>
 
 <li> Density-based persistent homology
  October 06, 2021.
 Lightening talk, 2nd Workshop on Topological Methods in Data Analysis, Heidelberg University, Germany (virtual)
-
+<br>
 (Slides)
 </li>
 
 <li> <b>Morse theory for group presentations.</b>
  July 16, 2021.
 Invited talk, Mathematical Congress of the Americas 2021, Universidad de Buenos Aires, Argentina (virtual)
-
+<br>
 (Paper)(Slides)(Video)
 
 <li><b>Intrinsic persistent homology via density-based metric learning.</b>
  June 16, 2021.
 Contributed talk, The 38th Annual Workshop in Geometric Topology, USA (virtual)
-
+<br>
 (Paper)(Slides)(Video)
 </li>
 
 <li><b>Intrinsic persistent homology via density-based metric learning.</b>
  April 29, 2021.
 Contributed talk, IMSI Topological Data Anaysis Workshop 2021, Chicago, USA (virtual)
-
+<br>
 (Paper)(Slides)(Video)
 </li>
 
 <li><b>A density-based metric learning approach to geometric inference.</b>
  April 08, 2021.
 Conference paper, 37th European Workshop on Computational Geometry (EuroCG 2021), St. Petesburg (virtual)
-
+<br>
 (Conference paper)(Poster)
 </li>
 
@@ -154,3 +154,4 @@ Invited talk, FAMAF, Departamento de Matemática, Córdoba, Argentina (virtual)
 Contributed talk, PyData Córdoba 2019, UTN. Córdoba, Argentina.
 (Slides)(Code)
 </li>
+</ul>
