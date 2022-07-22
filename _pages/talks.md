@@ -26,7 +26,7 @@ author_profile: true
 <br>
 <i>Invited talk</i>, <a href="https://www.aatrn.net">Applied Topology Seminar</a>, AATRN Youtube Channel, Online.
 <br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_AATRN.html#/">(Slides)</a><a href=" https://www.youtube.com/watch?v=f62fRQdizAI">(Video)</a>
+<a href="https://arxiv.org/abs/1912.00115">(Paper)</a href="https://github.com/ximenafernandez/Finite-Topological-Spaces"><a>(Code)</a><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_AATRN.html#/">(Slides)</a><a href=" https://www.youtube.com/watch?v=f62fRQdizAI">(Video)</a>
 </span>
 </li>
 
@@ -106,27 +106,27 @@ Lightening talk, 2nd Workshop on Topological Methods in Data Analysis, Heidelber
 (Slides)
 </li>
 
-<li> Morse theory for group presentations
+<li> <b>Morse theory for group presentations.</b>
  July 16, 2021.
 Invited talk, Mathematical Congress of the Americas 2021, Universidad de Buenos Aires, Argentina (virtual)
 
 (Paper)(Slides)(Video)
 
-<li>Intrinsic persistent homology via density-based metric learning.
+<li><b>Intrinsic persistent homology via density-based metric learning.</b>
  June 16, 2021.
 Contributed talk, The 38th Annual Workshop in Geometric Topology, USA (virtual)
 
 (Paper)(Slides)(Video)
 </li>
 
-<li>Intrinsic persistent homology via density-based metric learning
+<li><b>Intrinsic persistent homology via density-based metric learning.</b>
  April 29, 2021.
 Contributed talk, IMSI Topological Data Anaysis Workshop 2021, Chicago, USA (virtual)
 
 (Paper)(Slides)(Video)
 </li>
 
-<li>A density-based metric learning approach to geometric inference
+<li><b>A density-based metric learning approach to geometric inference.</b>
  April 08, 2021.
 Conference paper, 37th European Workshop on Computational Geometry (EuroCG 2021), St. Petesburg (virtual)
 
