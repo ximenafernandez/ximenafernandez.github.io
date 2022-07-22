@@ -21,15 +21,16 @@ author_profile: true
   <li>
 <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
-<b style = "color: grey">July 20, 2022.</span>
-Invited talk, Applied Topology Seminar, AATRN Youtube Channel, Online
+<span style = "color: grey">July 20, 2022.</span>
+Invited talk, Applied Topology Seminar, AATRN Youtube Channel, Online.
+<br>
 (Slides) (Video)
 </li>
 
 <li><b>From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
-
+<br>
 June 21, 2022. Invited talk, Brain Modelling Seminar, Oxford University, UK.
-
+<br>
 (Slides)
 </li>
 
