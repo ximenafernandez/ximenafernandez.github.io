@@ -131,7 +131,7 @@ Lightening talk, <a href="https://www.mathi.uni-heidelberg.de/~mbleher/tdaworksh
  July 16, 2021.</span>
 Invited talk, <a href="https://www.mca2021.org/en/tools/view-abstract?code=2858)">Mathematical Congress of the Americas 2021</a>, Universidad de Buenos Aires, Argentina (virtual)
 <br>
-<a href="https://arxiv.org/abs/1912.00115">(Paper)</a>(Slides)<a href="https://www.youtube.com/watch?v=ftWf1-klsOc&t=466s">(Video)</a>
+<a href="https://arxiv.org/abs/1912.00115">(Paper)</a><a href="https://www.youtube.com/watch?v=ftWf1-klsOc&t=466s">(Video)</a>
 </span>
 </li>
 
@@ -142,7 +142,7 @@ Invited talk, <a href="https://www.mca2021.org/en/tools/view-abstract?code=2858)
  June 16, 2021.</span>
 Contributed talk,  <a href="http://faculty.tcu.edu/gfriedman/GTW2021/index.html">38th Annual Workshop in Geometric Topology</a>, USA (virtual)
 <br>
-<a href="https://arxiv.org/abs/2012.07621">(Paper)</a>(Slides)<a href="https://www.youtube.com/watch?v=r1IbaXCEyrA&list=PLOujdvDienPu7gx86icUT8WTV9X4LT1gp&index=15">(Video)</a>
+<a href="https://arxiv.org/abs/2012.07621">(Paper)</a><a href="https://www.youtube.com/watch?v=r1IbaXCEyrA&list=PLOujdvDienPu7gx86icUT8WTV9X4LT1gp&index=15">(Video)</a>
 </span>
 </li>
 
@@ -153,7 +153,7 @@ Contributed talk,  <a href="http://faculty.tcu.edu/gfriedman/GTW2021/index.html"
  April 29, 2021.</span>
 Contributed talk, <a href="https://www.imsi.institute/topological-data-analysis/">IMSI Topological Data Anaysis Workshop 2021</a>, Chicago, USA (virtual)
 <br>
-<a href="https://arxiv.org/abs/2012.07621">(Paper)</a>(Slides)<a hreff="https://www.imsi.institute/videos/intrinsic-persistent-homology-via-density-based-metric-learning/">(Video)</a>
+<a href="https://arxiv.org/abs/2012.07621">(Paper)</a><a hreff="https://www.imsi.institute/videos/intrinsic-persistent-homology-via-density-based-metric-learning/">(Video)</a>
 </span>
 </li>
 
