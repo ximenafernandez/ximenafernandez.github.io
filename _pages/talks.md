@@ -17,14 +17,17 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 -->
-<ul>
+
 <li>
 <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
+<span style="font-size: 18px">
 <span style = "color: grey">July 20, 2022.</span>
+<br>
 <i>Invited talk</i>, <a href="https://www.aatrn.net">Applied Topology Seminar</a>, AATRN Youtube Channel, Online.
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_AATRN.html#/">(Slides)</a><a href=" https://www.youtube.com/watch?v=f62fRQdizAI">(Video)</a>
+</span>
 </li>
 
 <li><b> From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
@@ -144,9 +147,10 @@ Invited talk, FAMAF, Departamento de Matemática, Córdoba, Argentina (virtual)
 (Video)(Code)
 </li>
 
-<li> Topological Data Analysis and Applications.
+<li> <b>Topological Data Analysis and Applications.</b>
+<br>
  September 28, 2019
+<br>
 Contributed talk, PyData Córdoba 2019, UTN. Córdoba, Argentina.
 (Slides)(Code)
 </li>
-</ul>
