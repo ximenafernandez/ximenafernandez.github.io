@@ -85,7 +85,7 @@ author_profile: true
 <li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
 <br><span style="font-size: 14px">
 <span style = "color: grey">November 19, 2021.</span>
-<i>Invited talk,</i> <a hreff="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">UK Centre for Topological Data Analysis</a> Group Meeting, Oxford University, England, UK.
+<i>Invited talk,</i> <a hreff="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">UK Centre for Topological Data Analysis</a> Group Meeting, Oxford University, UK.
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance.html#/">(Slides)</a>
 </span>
@@ -96,7 +96,7 @@ author_profile: true
 <span style="font-size: 14px">
 <span style = "color: grey">
  October 28, 2021.</span>
-Invited talk, Geometry and Topology Seminar, Durham University, England, UK
+Invited talk, Geometry and Topology Seminar, Durham University, UK
 <br>
 <a href="https://www.youtube.com/watch?v=DYDL8MZwxLs">(Video)</a>
 </span>
@@ -107,7 +107,7 @@ Invited talk, Geometry and Topology Seminar, Durham University, England, UK
 <span style="font-size: 14px">
 <span style = "color: grey">
  October 13, 2021.</span>
-Invited talk, Applied Math Seminar, Durham University, England, UK
+Invited talk, Applied Math Seminar, Durham University, UK
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/TimeSeries.html#/">(Slides)</a>
 </span>
