@@ -21,7 +21,7 @@ author_profile: true
 <li>
 <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
-<span style="font-size: 18px">
+<span style="font-size: 16px">
 <span style = "color: grey">July 20, 2022.</span>
 <br>
 <i>Invited talk</i>, <a href="https://www.aatrn.net">Applied Topology Seminar</a>, AATRN Youtube Channel, Online.
@@ -32,7 +32,7 @@ author_profile: true
 
 <li><b> From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
 <br>
-<span style="font-size: 18px">
+<span style="font-size: 16px">
 <span style = "color: grey">June 21, 2022.</span> <i>Invited talk</i>, Brain Modelling Seminar, Oxford University, UK.
 <br>
 (Slides)
@@ -99,7 +99,7 @@ Invited talk, Applied Math Seminar, Durham University, England, UK
 (Slides)
 </li>
 
-<li> Density-based persistent homology
+<li> <b>Density-based persistent homology.</b>
  October 06, 2021.
 Lightening talk, 2nd Workshop on Topological Methods in Data Analysis, Heidelberg University, Germany (virtual)
 <br>
@@ -133,25 +133,27 @@ Conference paper, 37th European Workshop on Computational Geometry (EuroCG 2021)
 (Conference paper)(Poster)
 </li>
 
-<li> Geometric and Topological Inference for Data Analysis
+<li> <b>Geometric and Topological Inference for Data Analysis.</b>
  December 15, 2020
 Invited talk, 11th meeting, Applied Algebra and Geometry in the UK, University of York, UK (virtual)
-
+<br>
 (Paper)(Slides)
 </li>
 
-<li> Homología Persistente para el Análisis de Datos
- August 24, 2020
-Invited talk, FAMAF, Departamento de Matemática, Córdoba, Argentina (virtual)
-
-(Video)(Code)
+<li> <b>Homología Persistente para el Análisis de Datos.</b>
+<span style = "color: grey">August 24, 2020.</span>
+<br>
+<i>Invited talk,</i> FAMAF, Departamento de Matemática, Córdoba, Argentina (virtual)
+<br>
+<a href="https://www.youtube.com/watch?v=R6JQAH0gPsw">(Video)</a><a href="https://github.com/ximenafernandez/Persistent_Homology">(Code)</a>
 </li>
 
 <li> <b>Topological Data Analysis and Applications.</b>
 <br>
- September 28, 2019
+<span style = "color: grey">September 28, 2019.</span>
 <br>
-Contributed talk, PyData Córdoba 2019, UTN. Córdoba, Argentina.
-(Slides)(Code)
+<i>Contributed talk,</i> <a href="https://pydata.org/cordoba2019/">PyData Córdoba 2019</a>, UTN. Córdoba, Argentina.
+<br>
+<a href="https://github.com/ximenafernandez/PyData2019TDA/blob/master/PyData2019.pdf">(Slides)</a><a href="https://github.com/ximenafernandez/PyData2019TDA">(Code)</a>
 </li>
 </ul>
