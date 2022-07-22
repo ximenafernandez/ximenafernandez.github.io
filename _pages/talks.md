@@ -83,84 +83,117 @@ author_profile: true
 </li>
 
 <li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
-<br>
+<br><span style="font-size: 14px">
 <span style = "color: grey">November 19, 2021.</span>
 <i>Invited talk,</i> Centre for Topological Data Analysis Group Meeting, Oxford University, England, UK.
 <br>
 (Slides)
+</span>
 </li>
 
 <li> <b>Morse theory for group presentations.</b>
 <br>
- October 28, 2021.
+<span style="font-size: 14px">
+<span style = "color: grey">
+ October 28, 2021.</span>
 Invited talk, Geometry and Topology Seminar, Durham University, England, UK
 <br>
 (Slides) (Video)
+</span>
 </li>
 
 <li><b>Topological time series analysis.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">
  October 13, 2021.
 Invited talk, Applied Math Seminar, Durham University, England, UK
 <br>
 (Slides)
+</span>
 </li>
 
 <li> <b>Density-based persistent homology.</b>
- October 06, 2021.
+  <br>
+<span style="font-size: 14px">
+<span style = "color: grey">
+ October 06, 2021.</span>
 Lightening talk, 2nd Workshop on Topological Methods in Data Analysis, Heidelberg University, Germany (virtual)
 <br>
 (Slides)
+</span>
 </li>
 
 <li> <b>Morse theory for group presentations.</b>
- July 16, 2021.
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">
+ July 16, 2021.</span>
 Invited talk, Mathematical Congress of the Americas 2021, Universidad de Buenos Aires, Argentina (virtual)
 <br>
 (Paper)(Slides)(Video)
+</span>
+</li>
 
 <li><b>Intrinsic persistent homology via density-based metric learning.</b>
- June 16, 2021.
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">
+ June 16, 2021.</span>
 Contributed talk, The 38th Annual Workshop in Geometric Topology, USA (virtual)
 <br>
 (Paper)(Slides)(Video)
+</span>
 </li>
 
 <li><b>Intrinsic persistent homology via density-based metric learning.</b>
- April 29, 2021.
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">
+ April 29, 2021.</span>
 Contributed talk, IMSI Topological Data Anaysis Workshop 2021, Chicago, USA (virtual)
 <br>
 (Paper)(Slides)(Video)
+</span>
 </li>
 
 <li><b>A density-based metric learning approach to geometric inference.</b>
- April 08, 2021.
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">
+ April 08, 2021.</span>
 Conference paper, 37th European Workshop on Computational Geometry (EuroCG 2021), St. Petesburg (virtual)
 <br>
-(Conference paper)(Poster)
+(Conference paper)(Poster)</span>
 </li>
 
 <li> <b>Geometric and Topological Inference for Data Analysis.</b>
-<span style = "color: grey">December 15, 2020</span>
 <br>
-<i>Invited talk, <a https://sites.google.com/view/appliedalgebraandgeometry/home/11th-meeting-york-online?authuser=0>11th meeting, Applied Algebra and Geometry in the UK</a>, University of York, UK (virtual)
+<span style="font-size: 14px">
+<span style = "color: grey">December 15, 2020</span>
+<i>Invited talk</i>, <a https://sites.google.com/view/appliedalgebraandgeometry/home/11th-meeting-york-online?authuser=0>11th meeting, Applied Algebra and Geometry in the UK</a>, University of York, UK (virtual)
 <br>
 (Paper)<a href="http://ximenafernandez.github.io/files/Geometric_and_Topological_Inference_for_Data_Analysis.pdf">(Slides)</a>
+</span>
 </li>
 
 <li> <b>Homología Persistente para el Análisis de Datos.</b>
-<span style = "color: grey">August 24, 2020.</span>
 <br>
+<span style="font-size: 14px">
+<span style = "color: grey">August 24, 2020.</span>
 <i>Invited talk,</i> FAMAF, Departamento de Matemática, Córdoba, Argentina (virtual)
 <br>
 <a href="https://www.youtube.com/watch?v=R6JQAH0gPsw">(Video)</a><a href="https://github.com/ximenafernandez/Persistent_Homology">(Code)</a>
+</span>
 </li>
 
 <li> <b>Topological Data Analysis and Applications.</b>
 <br>
+<span style="font-size: 14px">
 <span style = "color: grey">September 28, 2019.</span>
-<br>
 <i>Contributed talk,</i> <a href="https://pydata.org/cordoba2019/">PyData Córdoba 2019</a>, UTN. Córdoba, Argentina.
 <br>
 <a href="https://github.com/ximenafernandez/PyData2019TDA/blob/master/PyData2019.pdf">(Slides)</a><a href="https://github.com/ximenafernandez/PyData2019TDA">(Code)</a>
+</span>
 </li>
 </ul>
