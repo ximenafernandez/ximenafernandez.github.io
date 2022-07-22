@@ -171,7 +171,7 @@ Conference paper, 37th European Workshop on Computational Geometry (EuroCG 2021)
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">December 15, 2020</span>
-<i>Invited talk</i>, <a https://sites.google.com/view/appliedalgebraandgeometry/home/11th-meeting-york-online?authuser=0>11th meeting, Applied Algebra and Geometry in the UK</a>, University of York, UK (virtual)
+<i>Invited talk</i>, <a href="https://sites.google.com/view/appliedalgebraandgeometry/home/11th-meeting-york-online?authuser=0">11th meeting, Applied Algebra and Geometry in the UK</a>, University of York, UK (virtual)
 <br>
 (Paper)<a href="http://ximenafernandez.github.io/files/Geometric_and_Topological_Inference_for_Data_Analysis.pdf">(Slides)</a>
 </span>
