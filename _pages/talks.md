@@ -66,10 +66,12 @@ author_profile: true
 
 <li> <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
+<span style="font-size: 14px">
+<span style = "color: grey">
  April 14, 2022.
-<i>Contributed talk,</i> 35th British Topology Meeting, Durham University, UK.
-<br>
-(Slides)
+</span>
+<i>Contributed talk,</i> <a href="https://www.maths.dur.ac.uk/users/dirk.schuetz/BTM35.html">35th British Topology Meeting</a>, Durham University, UK.
+</span>
 </li>
 
 <li> <b>Topological methods for real time detection of epileptic seizures in EEG recordings.</b>
