@@ -106,15 +106,15 @@ Invited talk, Geometry and Topology Seminar, Durham University, England, UK
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">
- October 13, 2021.
+ October 13, 2021.</span>
 Invited talk, Applied Math Seminar, Durham University, England, UK
 <br>
-(Slides)
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/TimeSeries.html#/">(Slides)</a>
 </span>
 </li>
 
 <li> <b>Density-based persistent homology.</b>
-  <br>
+<br>
 <span style="font-size: 14px">
 <span style = "color: grey">
  October 06, 2021.</span>
@@ -140,9 +140,9 @@ Invited talk, Mathematical Congress of the Americas 2021, Universidad de Buenos 
 <span style="font-size: 14px">
 <span style = "color: grey">
  June 16, 2021.</span>
-Contributed talk, The 38th Annual Workshop in Geometric Topology, USA (virtual)
+Contributed talk,  <a href="http://faculty.tcu.edu/gfriedman/GTW2021/index.html">38th Annual Workshop in Geometric Topology</a>, USA (virtual)
 <br>
-(Paper)(Slides)(Video)
+(Paper)(Slides)<a href="https://www.youtube.com/watch?v=r1IbaXCEyrA&list=PLOujdvDienPu7gx86icUT8WTV9X4LT1gp&index=15">(Video)</a>
 </span>
 </li>
 
@@ -151,9 +151,9 @@ Contributed talk, The 38th Annual Workshop in Geometric Topology, USA (virtual)
 <span style="font-size: 14px">
 <span style = "color: grey">
  April 29, 2021.</span>
-Contributed talk, IMSI Topological Data Anaysis Workshop 2021, Chicago, USA (virtual)
+Contributed talk, <a href="https://www.imsi.institute/topological-data-analysis/">IMSI Topological Data Anaysis Workshop 2021</a>, Chicago, USA (virtual)
 <br>
-(Paper)(Slides)(Video)
+(Paper)(Slides)<a hreff="https://www.imsi.institute/videos/intrinsic-persistent-homology-via-density-based-metric-learning/">(Video)</a>
 </span>
 </li>
 
