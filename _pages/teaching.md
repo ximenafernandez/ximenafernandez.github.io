@@ -31,6 +31,7 @@ Three lectures (3 hs).
 International Summer School on Modeling Nature [BIOMAT 2022](https://www.modelingnature.org/international-phd-school-2022).
 Multiscale Models and Methods in Life Sciences. Granada, Spain. 6 - 10 June 2022.
 </li>
+</ul>
 
 
 
