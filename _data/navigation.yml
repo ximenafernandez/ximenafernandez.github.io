@@ -11,7 +11,10 @@ main:
     url: /code/
 
   - title: "Outreach"
-    url: /outreach/    
+    url: /outreach/
+    
+  - title: "Teaching"
+    url: /teaching/ 
 
   - title: "Work Experience"
     url: /work-experience/
