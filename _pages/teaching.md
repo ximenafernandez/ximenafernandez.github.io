@@ -44,9 +44,9 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 ## Teaching
 ### Lecturer
 
-* Torcuato DiTella University
-* University of San Andres
+* Torcuato DiTella University (2016-2017)
+* University of San Andres (2020)
 
 ### (Lead) Teaching Assistant
-* University of Buenos Aires
+* University of Buenos Aires (2007-2020)
 
