@@ -19,7 +19,7 @@ author_profile: true
 <li>[Persistent homology and applications in biology.](https://github.com/ximenafernandez/eutopia2022) 
 
 Two lectures (8 hs). 
-EUropean TOPology Interdisciplinary Action [(EUTOPIA) Summer School 2022](https://eutopia.unitn.eu/eutopia-summer-school-program/).
+EUropean TOPology Interdisciplinary Action <a href="https://eutopia.unitn.eu/eutopia-summer-school-program/">(EUTOPIA) Summer School 2022</a>.
 Paris, France. 27 June - 6 July 2022.
 </li>
 
@@ -28,7 +28,7 @@ Paris, France. 27 June - 6 July 2022.
 [Topological data analysis and applications in dynamics.](https://github.com/ximenafernandez/biomat2022) 
 
 Three lectures (3 hs).
-International Summer School on Modeling Nature [BIOMAT 2022](https://www.modelingnature.org/international-phd-school-2022).
+International Summer School on Modeling Nature <a href="https://www.modelingnature.org/international-phd-school-2022">BIOMAT 2022</a>.
 Multiscale Models and Methods in Life Sciences. Granada, Spain. 6 - 10 June 2022.
 </li>
 </ul>
