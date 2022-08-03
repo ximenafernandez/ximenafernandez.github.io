@@ -37,15 +37,18 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 
 ## Mentoring
 
-* Leo Zhang. <b>LMS undergraduate research bursary 2022</b> (July-August 2022, 8 weeks), with J.Giansiracusa. 
+* Leo Zhang. 
+<br>
+<b>LMS undergraduate research bursary 2022</b> (July-August 2022, 8 weeks), with J.Giansiracusa. 
 <br>
 Project: <i>Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i> 
 
 ## Teaching
 ### Lecturer
 
-* Torcuato DiTella University (2016-2017)
 * University of San Andres (2020)
+* Torcuato DiTella University (2016-2017)
+
 
 ### (Lead) Teaching Assistant
 * University of Buenos Aires (2007-2020)
