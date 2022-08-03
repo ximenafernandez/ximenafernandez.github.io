@@ -20,7 +20,7 @@ author_profile: true
 
 Two lectures (8 hs). 
 EUropean TOPology Interdisciplinary Action <a href="https://eutopia.unitn.eu/eutopia-summer-school-program/">(EUTOPIA) Summer School 2022</a>.
-Paris, France. 27 June - 6 July 2022.
+Université Paris Cité, Paris, France. 27 June - 6 July 2022.
 </li>
 
 
@@ -29,7 +29,7 @@ Paris, France. 27 June - 6 July 2022.
 
 Three lectures (3 hs).
 International Summer School on Modeling Nature <a href="https://www.modelingnature.org/international-phd-school-2022">BIOMAT 2022</a>.
-Multiscale Models and Methods in Life Sciences. Granada, Spain. 6 - 10 June 2022.
+Multiscale Models and Methods in Life Sciences. Universidad de Granada, Spain. 6 - 10 June 2022.
 </li>
 </ul>
 
