@@ -41,7 +41,7 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 
 ## Mentoring
 
-* Leo Zhang. Summer Project (July-August 2022, 8 weeks). LMS undergraduate research bursary.
+* Leo Zhang. Summer Project (July-August 2022, 8 weeks), with J.Giansiracusa. LMS undergraduate research bursary 2022.
 
 
 ## Teaching
