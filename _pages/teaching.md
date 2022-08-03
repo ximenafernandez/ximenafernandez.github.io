@@ -37,9 +37,9 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 
 ## Mentoring
 
-* Leo Zhang. Summer Project. <i>.Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i> (July-August 2022, 8 weeks), with J.Giansiracusa. 
+* Leo Zhang. <b>LMS undergraduate research bursary 2022.</b> (July-August 2022, 8 weeks), with J.Giansiracusa. 
 <br>
-<b>LMS undergraduate research bursary 2022.</b>
+<i>Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i> 
 
 ## Teaching
 ### Lecturer
