@@ -39,7 +39,7 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 
 * Leo Zhang. 
 <br>
-<b>LMS Undergraduate Research Bursary 2022</b> (July-August 2022, 8 weeks), with J.Giansiracusa. 
+<b>LMS Undergraduate Research Bursary 2022</b> (July-August 2022, 8 weeks), with J. Giansiracusa. 
 
 Project: <i>Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i> 
 
