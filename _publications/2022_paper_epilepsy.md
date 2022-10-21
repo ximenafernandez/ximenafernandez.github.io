@@ -1,0 +1,22 @@
+---
+title: "<span style='font-size: 20px'> Topological biomarkers for real-time detection of epileptic seizures."
+collection: publications
+permalink: /publication/2022_paper_eplepsy
+date: 2022-10-21
+venue: soon
+link: 'https://www.biorxiv.org/content/10.1101/2022.06.13.495956v1'
+---
+
+<p style="font-size:11pt;">
+(with D. Mateos) <span style="font-size:11pt; font-style:italic"> 
+Automated seizure detection is a fundamental problem in computational neuroscience to improve the diagnosis and treatment of epileptic disease.
+We propose a novel real-time computational method for automated tracking
+and detection of epileptic seizures from raw neurophysiological recordings. Our mechanism
+is based on the topological analysis of the sliding window embedding of the time series derived from the simultaneously recorded channels. We extract topological biomarkers from the
+signals via the computation of the persistent homology of time evolving topological spaces. Remarkably, our proposed biomarkers robustly captures the change in the brain dynamics induced by the seizures.
+We apply our methods
+in different types of signals including scalp and intracranial EEG and MEG, in patients
+during interictal and ictal states, showing high accuracy in a range of clinical situations.
+</span>
+</p>
+[Slides.]()
