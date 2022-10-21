@@ -19,4 +19,4 @@ in different types of signals including scalp and intracranial EEG and MEG, in p
 during interictal and ictal states, showing high accuracy in a range of clinical situations.
 </span>
 </p>
-[Slides.]()
+[Slides.](https://ximenafernandez.github.io/reveal.js-presentations/slides/Epilepsy.html#/)
