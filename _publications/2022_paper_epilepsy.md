@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022_paper_eplepsy
 date: 2022-10-21
 venue: TBA
-link: 'https://www.biorxiv.org/content/10.1101/2022.06.13.495956v1'
+link: 
 ---
 
 <p style="font-size:11pt;">
