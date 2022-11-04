@@ -18,6 +18,17 @@ author_profile: true
 {% endfor %}
 -->
 <ul>
+
+<li>
+<b>Morse theory for group presentations.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">November 3, 2022.</span>
+<i>Invited talk</i>, <a href="https://www.ph-karlsruhe.de/tagungen/combinatorial-group-theory-and-low-dimensional-topology">3rd International Meeting on Geometric Group Theory and Low Dimensional Topology</a>, Virtual.
+<br>
+<a href="https://arxiv.org/abs/1912.00115">(Paper)</a ><a href="https://github.com/ximenafernandez/Finite-Topological-Spaces">(Code)</a><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_LowDimTop.html#/">(Slides)</a></span>
+</li>
+
 <li>
 <b>Morse theory for group presentations and the persistent fundamental group.</b>
 <br>
