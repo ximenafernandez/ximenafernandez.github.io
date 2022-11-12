@@ -3,8 +3,8 @@ title: "<span style='font-size: 20px'> Topological biomarkers for real-time dete
 collection: publications
 permalink: /publication/2022_paper_eplepsy
 date: 2022-10-21
-venue: TBA
-link: 
+venue: arXiv:2211.02523
+link: 'https://arxiv.org/abs/2211.02523'
 ---
 
 <p style="font-size:11pt;">
