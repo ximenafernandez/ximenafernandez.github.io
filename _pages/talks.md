@@ -20,6 +20,16 @@ author_profile: true
 <ul>
 
 <li>
+<b>Topological biomarkers for real-time detection of epileptic seizures.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">January 27, 2023.</span>
+<i>Invited talk</i>, <a href="https://www.ph-karlsruhe.de/tagungen/combinatorial-group-theory-and-low-dimensional-topology">UK Centre for Topological Data Analysis Group Meeting</a>, Oxford University, UK.
+<br>
+<a href="https://arxiv.org/abs/2211.02523">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Epilepsy_Oxford.html#/">(Slides)</a></span>
+</li>
+
+<li>
 <b>Morse theory for group presentations.</b>
 <br>
 <span style="font-size: 14px">
