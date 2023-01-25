@@ -24,7 +24,7 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">January 27, 2023.</span>
-<i>Invited talk</i>, <a href="https://www.ph-karlsruhe.de/tagungen/combinatorial-group-theory-and-low-dimensional-topology">UK Centre for Topological Data Analysis Group Meeting</a>, Oxford University, UK.
+<i>Invited talk</i>, <a hreff="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">UK Centre for Topological Data Analysis</a> Group Meeting</a>, Oxford University, UK.
 <br>
 <a href="https://arxiv.org/abs/2211.02523">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Epilepsy_Oxford.html#/">(Slides)</a></span>
 </li>
