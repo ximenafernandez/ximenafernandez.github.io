@@ -25,9 +25,9 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">February 23, 2023.</span>
-<i>Invited talk</i>, <a hreff="https://team.inria.fr/datashape/seminars/">UK Centre for Topological Data Analysis</a> DataShape Seminar, Paris-Saclay University, france.
+<i>Invited talk</i>, <a hreff="https://team.inria.fr/datashape/seminars/">DataShape Seminar,</a> Paris-Saclay University, France.
 <br>
-<a href="https://arxiv.org/pdf/2012.07621.pdf">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Datashape_.html#/">(Slides)</a></span>
+<a href="https://arxiv.org/pdf/2012.07621.pdf">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Datashape.html#/">(Slides)</a></span>
 </li>
 
 <li>
