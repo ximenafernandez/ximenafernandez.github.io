@@ -19,6 +19,17 @@ author_profile: true
 -->
 <ul>
 
+
+<li>
+<b>Intrinsic persistent homology via density-based metric learning.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">February 23, 2023.</span>
+<i>Invited talk</i>, <a hreff="https://team.inria.fr/datashape/seminars/">UK Centre for Topological Data Analysis</a> DataShape Seminar, Paris-Saclay University, france.
+<br>
+<a href="https://arxiv.org/pdf/2012.07621.pdf">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Datashape_.html#/">(Slides)</a></span>
+</li>
+
 <li>
 <b>Topological biomarkers for real-time detection of epileptic seizures.</b>
 <br>
