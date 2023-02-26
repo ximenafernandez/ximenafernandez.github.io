@@ -21,6 +21,16 @@ author_profile: true
 
 
 <li>
+<b>Density-based intrinsic persistent homology & applications to time series analysis.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">February 28, 2023.</span>
+<i>Invited talk</i>, <a hreff="https://www.kth.se/math/mathematics-of-data/seminar-applied-cats-1.1009075">Applied CATS Seminar,</a> KTH University, Stockholm.
+<br>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_KTH.html#/">(Slides)</a></span>
+</li>
+
+<li>
 <b>Intrinsic persistent homology via density-based metric learning.</b>
 <br>
 <span style="font-size: 14px">
