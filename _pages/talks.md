@@ -25,7 +25,7 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">February 28, 2023.</span>
-<i>Invited talk</i>, <a hreff="https://www.kth.se/math/mathematics-of-data/seminar-applied-cats-1.1009075">Applied CATS Seminar,</a> KTH University, Stockholm.
+<i>Invited talk</i>, <a href="https://www.kth.se/math/mathematics-of-data/seminar-applied-cats-1.1009075">Applied CATS Seminar,</a> KTH University, Stockholm.
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_KTH.html#/">(Slides)</a></span>
 </li>
@@ -35,7 +35,7 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">February 23, 2023.</span>
-<i>Invited talk</i>, <a hreff="https://team.inria.fr/datashape/seminars/">DataShape Seminar,</a> Paris-Saclay University, France.
+<i>Invited talk</i>, <a href="https://team.inria.fr/datashape/seminars/">DataShape Seminar,</a> Paris-Saclay University, France.
 <br>
 <a href="https://arxiv.org/pdf/2012.07621.pdf">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Datashape.html#/">(Slides)</a></span>
 </li>
@@ -45,7 +45,7 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">January 27, 2023.</span>
-<i>Invited talk</i>, <a hreff="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">UK Centre for Topological Data Analysis</a> Group Meeting, Oxford University, UK.
+<i>Invited talk</i>, <a href="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">UK Centre for Topological Data Analysis</a> Group Meeting, Oxford University, UK.
 <br>
 <a href="https://arxiv.org/abs/2211.02523">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Epilepsy_Oxford.html#/">(Slides)</a></span>
 </li>
