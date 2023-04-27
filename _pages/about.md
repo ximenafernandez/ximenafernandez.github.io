@@ -18,4 +18,20 @@ my Ph.D in Mathematics from the
 [University of Buenos Aires](http://web.dm.uba.ar/), under the supervision of [Elías Gabriel Minian](http://mate.dm.uba.ar/~gminian/). In my [thesis](http://cms.dm.uba.ar/academico/carreras/doctorado/Tesis_Ximena_Fernandez.pdf), I approached different classical problems in low dimensional Algebraic Topology from a combinatorial and computational point of view. In particular, I developed 
 [software](code) in SAGE and GAP related to the theory of Finite Topological Spaces.
 
-My [research interests](research) concentrate  on Applied Algebraic Topology, Topological Data Analysis, Computational and Combinatorial Topology. While I focus on the theoretical development, most of my current research is motivated by applications in real life problems. For a summary of my research during 2021, consider watching the following [video](http://ximenafernandez.github.io/files/1st_year_postdoc.mp4).
+My [research interests](research) concentrate  on Applied Algebraic Topology, Topological Data Analysis, Computational and Combinatorial Topology. While I focus on the theoretical development, most of my current research is motivated by applications in real life problems. 
+
+**Uncocoming events**
+<ul>
+<li><b>Dagstuhl Seminar: Topological Data Analysis and Applications.</b> 
+8-12 May 2023. Schloss Dagstuhl, Germany</li>
+<li><b>FoCM 2023.</b> 
+12-21 June 2023. Sorbonne University, Paris, France </li>
+<li> <b>29th Nordic Congress of Mathematicians.</b>  
+3 - 7 July 2023. Aalborg University, Denmark. </li>
+<li> <b>WinCompTop: Women in Computational Topology 3</b>
+17-21 July 2023. Bernoulli Center, Lausanne, Switzerland.</li>
+<li><b>TDA week 2023</b>
+31 July - 4 August 2023. Kyoto University, Japan.
+</li>
+</ul>
+
