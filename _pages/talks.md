@@ -27,7 +27,7 @@ author_profile: true
 <span style="font-size: 14px">
 <span style = "color: grey">April 14, 2023.</span>
 <i>Invited talk</i>, Probability & Statistics Seminar, Universidad de la Republica, Uruguay.
-<br>
+</span>
 </li>
 
 
@@ -37,7 +37,7 @@ author_profile: true
 <span style="font-size: 14px">
 <span style = "color: grey">March 8, 2023.</span>
 <i>Invited talk</i>, Applied Topology Seminar, CIMAT Center for Research in Mathematics, Mexico.
-<br>
+</span>
 </li>
 
 <li>
