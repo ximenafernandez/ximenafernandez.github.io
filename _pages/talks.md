@@ -20,6 +20,26 @@ author_profile: true
 <ul>
 
 
+
+<li>
+<b>Density-based distance learning and applications to topological data analysis.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">April 14, 2023.</span>
+<i>Invited talk</i>, Probability & Statistics Seminar, Universidad de la Republica, Uruguay.
+<br>
+</li>
+
+
+<li>
+<b>Morse theory for group presentations & applications to the persistent fundamental group.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">March 8, 2023.</span>
+<i>Invited talk</i>, Applied Topology Seminar, CIMAT Center for Research in Mathematics, Mexico.
+<br>
+</li>
+
 <li>
 <b>Density-based intrinsic persistent homology & applications to time series analysis.</b>
 <br>
