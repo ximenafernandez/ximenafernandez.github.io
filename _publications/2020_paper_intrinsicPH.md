@@ -5,8 +5,8 @@ permalink: /publication/2020_paper_intrinsicPH
 date: 2023-01-01
 venue: Journal of Machine Learning Research (to appear)
 #paperurl: 
-link: 'https://arxiv.org/abs/2012.07621'
-#citation: 'Fernández, X.; Borghini, E.;  Mindlin, G. ; Groisman, P.(2023). &quot;Intrinsic persistent homology via density-based metric learning.&quot; <i>Journal of Machine Learning Research (to appear)</i>'
+link: 'https://www.jmlr.org/papers/v24/21-1044.html'
+#citation: 'Fernández, X.; Borghini, E.;  Mindlin, G. ; Groisman, P.(2023). &quot;Intrinsic persistent homology via density-based metric learning.&quot; <i>Journal of Machine Learning Research  24(75):1−42, 2023.</i>
 ---
 
 <p style="font-size:11pt;">
@@ -21,5 +21,6 @@ that accounts for both the geometry of the manifold and the density that produce
 outperforms more standard approaches based on Euclidean norm with theoretical
  results and computational experiments.</span>
 </p>
-[Tutorial.](https://www.youtube.com/watch?v=1lP9ndiM60o) 
 [Code.](https://github.com/ximenafernandez/intrinsicPH)
+[Tutorial.](https://www.youtube.com/watch?v=1lP9ndiM60o) 
+
