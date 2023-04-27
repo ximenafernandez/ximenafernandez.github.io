@@ -20,7 +20,7 @@ my Ph.D in Mathematics from the
 
 My [research interests](research) concentrate  on Applied Algebraic Topology, Topological Data Analysis, Computational and Combinatorial Topology. While I focus on the theoretical development, most of my current research is motivated by applications in real life problems. 
 
-**Uncocoming events**
+**Upcoming events**
 <ul>
 <li><b>Dagstuhl Seminar: TDA and applications.</b> 
 8-12 May 2023. Schloss Dagstuhl, Germany</li>
