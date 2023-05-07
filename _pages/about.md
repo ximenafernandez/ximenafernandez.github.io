@@ -24,6 +24,8 @@ My [research interests](research) concentrate  on Applied Algebraic Topology, To
 <ul>
 <li><b>Dagstuhl Seminar: TDA and applications.</b> 
 8-12 May 2023. Schloss Dagstuhl, Germany.</li>
+<li><b>London TDA Seminar.</b> 
+23 May 2023. Queen Mary University, London, UK.</li>
 <li><b>FoCM 2023.</b> 
 12-21 June 2023. Sorbonne University, Paris, France.</li>
 <li> <b>29th Nordic Congress of Mathematicians.</b>  
@@ -33,5 +35,9 @@ My [research interests](research) concentrate  on Applied Algebraic Topology, To
 <li><b>TDA week 2023. </b>
 31 July - 4 August 2023. Kyoto University, Japan.
 </li>
+<li><b>GEOTOP-A Seminar </b>
+13 October 2023. Online.</li>
+<li><b>Coloquio Iberoamericano de Algebra y Teoria de Nudos. </b>
+27 October 2023. Online.</li>
 </ul>
 
