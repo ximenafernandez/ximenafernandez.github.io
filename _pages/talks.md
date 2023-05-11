@@ -22,6 +22,17 @@ author_profile: true
 
 
 <li>
+<b>Density-based Riiemannian metrics and persistent homology.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">May 10, 2023.</span>
+<i>Invited talk</i>, <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23192">Dagstuhl Seminar,</a> Germany.
+<br>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Dagstuhl.html#/">(Slides)</a>
+</span>
+</li>
+
+<li>
 <b>Density-based distance learning and applications to topological data analysis.</b>
 <br>
 <span style="font-size: 14px">
