@@ -29,13 +29,13 @@ My [research interests](research) concentrate  on Applied Algebraic Topology, To
 <li><b>FoCM 2023.</b> 
 12-21 June 2023. Sorbonne University, Paris, France.</li>
 <li> <b>29th Nordic Congress of Mathematicians.</b>  
-3 - 7 July 2023. Aalborg University, Denmark. </li>
+3-7 July 2023. Aalborg University, Denmark. </li>
 <li> <b>WinCompTop 3.</b>
 17-21 July 2023. Bernoulli Center, Lausanne, Switzerland.</li>
 <li><b>TDA week 2023. </b>
 31 July - 4 August 2023. Kyoto University, Japan.
 </li>
-<li><b>GEOTOP-A Seminar </b>
+<li><b>GEOTOP-A Seminar.</b>
 13 October 2023. Online.</li>
 <li><b>Coloquio Iberoamericano de Algebra y Teoria de Nudos. </b>
 27 October 2023. Online.</li>
