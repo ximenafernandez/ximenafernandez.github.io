@@ -20,9 +20,19 @@ author_profile: true
 <ul>
 
 
+<li>
+<b>Intrinsic persistent homology via density-based metric learning.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">May 23, 2023.</span>
+<i>Invited talk</i>, <a href="https://www.ninaotter.com/london-tda-seminar-23052023">London TDA Seminar,</a> London, UK.
+<br>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_TDA_London.html#/">(Slides)</a>
+</span>
+</li>
 
 <li>
-<b>Density-based Riiemannian metrics and persistent homology.</b>
+<b>Density-based Riemannian metrics and persistent homology.</b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">May 10, 2023.</span>
