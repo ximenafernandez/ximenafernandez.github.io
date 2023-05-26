@@ -22,12 +22,14 @@ My [research interests](research) concentrate  on Applied Algebraic Topology, To
 
 **Upcoming events**
 <ul>
-<li><b>Dagstuhl Seminar: TDA and applications.</b> 
+<!--<li><b>Dagstuhl Seminar: TDA and applications.</b> 
 8-12 May 2023. Schloss Dagstuhl, Germany.</li>
 <li><b>London TDA Seminar.</b> 
-23 May 2023. Queen Mary University, London, UK.</li>
+23 May 2023. Queen Mary University, London, UK.</li>-->
+<li><b>TDA Centre Meeting.</b> 
+9 June 2023. Oxford University, UK.</li>
 <li><b>FoCM 2023.</b> 
-12-21 June 2023. Sorbonne University, Paris, France.</li>
+12-21 June 2023. Sorbonne University, Paris, France.
 <li> <b>29th Nordic Congress of Mathematicians.</b>  
 3-7 July 2023. Aalborg University, Denmark. </li>
 <li> <b>WinCompTop 3.</b>

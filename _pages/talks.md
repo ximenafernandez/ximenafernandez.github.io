@@ -25,7 +25,7 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">May 23, 2023.</span>
-<i>Invited talk</i>, <a href="https://www.ninaotter.com/london-tda-seminar-23052023">London TDA Seminar,</a> London, UK.
+<i>Invited talk</i>, <a href="https://www.ninaotter.com/london-tda-seminar-23052023">London TDA Seminar,</a> Queen Mary University, London, UK.
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_TDA_London.html#/">(Slides)</a>
 </span>
