@@ -27,7 +27,7 @@ author_profile: true
 <span style = "color: grey">June 9, 2023.</span>
 <i>Invited talk</i>, <a href="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">TDA Centre Meeting,</a> Oxford University, London, UK.
 <br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Audio_ID.html#/">(Slides)</a>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID.html#/">(Slides)</a>
 </span>
 </li>
 
