@@ -25,7 +25,7 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">June 9, 2023.</span>
-<i>Invited talk</i>, <a href="https://www.ninaotter.com/london-tda-seminar-23052023">TDA Centre Meeting,</a> Oxford University, London, UK.
+<i>Invited talk</i>, <a href="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">TDA Centre Meeting,</a> Oxford University, London, UK.
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Audio_ID.html#/">(Slides)</a>
 </span>
