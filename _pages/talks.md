@@ -21,7 +21,7 @@ author_profile: true
 
 
 <li>
-<b>Topological fingerprints for Audio Identification..</b>
+<b>Topological fingerprints for Audio Identification.</b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">June 9, 2023.</span>
