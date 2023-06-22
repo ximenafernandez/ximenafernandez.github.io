@@ -94,6 +94,8 @@ author_profile: true
 </li>
 </ul>
 
+<br>
+
 %%%%%%%%%%%%2022
 <div class="vallenato-header">
 2022
@@ -178,6 +180,7 @@ author_profile: true
 </ul>
 </div>
 
+<br>
 %%%%%%%%%%%%2021
 
 <ul>
