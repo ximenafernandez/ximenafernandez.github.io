@@ -9,8 +9,9 @@ author_profile: true
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 
-<ul>
+<div class="vallenato">
 
+<ul>
 <li>
 <b>Topological fingerprints for Audio Identification.</b>
 <br>
@@ -96,10 +97,10 @@ author_profile: true
 
 <br>
 
+
 %%%%%%%%%%%%2022
 <div class="vallenato-header">
 2022
-
 </div><!--/.vallenato-header-->
 
 <div class="vallenato-content">
@@ -299,3 +300,11 @@ Contributed paper, 37th European Workshop on Computational Geometry (<a href="ht
 </span>
 </li>
 </ul>
+
+</div><!--/.vallenato-->
+
+<script>
+$(document).ready(function() {
+	vallenato();
+});
+</script>
