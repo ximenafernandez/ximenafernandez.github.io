@@ -179,11 +179,10 @@ author_profile: true
 </span>
 </li>
 </ul>
-</div>
+</div><!--/.vallenato-content-->
 </div><!--/.vallenato-->
 
 <br>
-
 
 <ul>
 <li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
