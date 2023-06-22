@@ -37,6 +37,9 @@ My [research interests](research) concentrate  on Applied Algebraic Topology, To
 <li><b>TDA week 2023. </b>
 31 July - 4 August 2023. Kyoto University, Japan.
 </li>
+<li><b>Systems Medicine Seminar, </b>
+17 August 2023. University of Florida, US (online).
+</li>
 <li><b>GEOTOP-A Seminar.</b>
 13 October 2023. Online.</li>
 <li><b>Coloquio Iberoamericano de Algebra y Teoria de Nudos. </b>
