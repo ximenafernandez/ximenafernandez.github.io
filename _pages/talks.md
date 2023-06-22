@@ -161,15 +161,7 @@ author_profile: true
 <i>Contributed talk,</i> 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences <a href="https://sites.google.com/view/dsabns2022/home?authuser=0">(DSABNS 2022)</a>, Basque Center for Applied Mathematics in Bilbao, Basque Country, Spain (virtual)
 </span>
 </li>
-<<<<<<< HEAD
-</ul>
 
-<ul>
-=======
-
-</div>
-
->>>>>>> parent of 0690a43 (Update talks.md)
 <li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
 <br><span style="font-size: 14px">
 <span style = "color: grey">November 19, 2021.</span>
