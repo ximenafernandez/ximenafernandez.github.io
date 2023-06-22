@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 <ul>
 <li>
 <b>Topological fingerprints for Audio Identification.</b>
@@ -89,10 +88,7 @@ author_profile: true
 <br>
 <a href="https://arxiv.org/abs/2211.02523">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Epilepsy_Oxford.html#/">(Slides)</a></span>
 </li>
-</ul>
 
-
-<ul>
 <li>
 <b>Morse theory for group presentations.</b>
 <br>
