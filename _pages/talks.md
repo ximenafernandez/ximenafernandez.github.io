@@ -28,6 +28,7 @@ author_profile: true
 </span>
 </li>
 
+
 <li>
 <b>Density-based Riemannian metrics and persistent homology.</b>
 <br>
@@ -38,6 +39,7 @@ author_profile: true
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Dagstuhl.html#/">(Slides)</a>
 </span>
 </li>
+
 
 <li>
 <b>Density-based distance learning and applications to topological data analysis.</b>
