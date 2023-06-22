@@ -92,13 +92,16 @@ author_profile: true
 <br>
 <a href="https://arxiv.org/abs/2211.02523">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Epilepsy_Oxford.html#/">(Slides)</a></span>
 </li>
+</ul>
 
+%%%%%%%%%%%%2022
 <div class="vallenato-header">
 2022
 
 </div><!--/.vallenato-header-->
 
 <div class="vallenato-content">
+<ul>
 <li>
 <b>Morse theory for group presentations.</b>
 <br>
@@ -172,9 +175,12 @@ author_profile: true
 <i>Contributed talk,</i> 13th Conference on Dynamical Systems Applied to Biology and Natural Sciences <a href="https://sites.google.com/view/dsabns2022/home?authuser=0">(DSABNS 2022)</a>, Basque Center for Applied Mathematics in Bilbao, Basque Country, Spain (virtual)
 </span>
 </li>
-
+</ul>
 </div>
 
+%%%%%%%%%%%%2021
+
+<ul>
 <li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
 <br><span style="font-size: 14px">
 <span style = "color: grey">November 19, 2021.</span>
