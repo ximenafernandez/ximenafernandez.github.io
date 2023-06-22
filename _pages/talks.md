@@ -284,10 +284,3 @@ Contributed paper, 37th European Workshop on Computational Geometry (<a href="ht
 </span>
 </li>
 </ul>
-
-
-<script>
-$(document).ready(function() {
-	vallenato();
-});
-</script>
