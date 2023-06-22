@@ -5,15 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-<script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
-  
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/vallenato/vallenato.css">
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
-<script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
-
 
 
 <ul>
@@ -100,15 +91,7 @@ author_profile: true
 </li>
 </ul>
 
-<br>
 
-
-<div class="vallenato">
-<div class="vallenato-header">
-2022
-</div><!--/.vallenato-header-->
-
-<div class="vallenato-content">
 <ul>
 <li>
 <b>Morse theory for group presentations.</b>
@@ -184,10 +167,6 @@ author_profile: true
 </span>
 </li>
 </ul>
-</div><!--/.vallenato-content-->
-</div><!--/.vallenato-->
-
-<br>
 
 <ul>
 <li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
