@@ -5,20 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/vallenato/vallenato.css">
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+<script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 
-<!--
-  {% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
--->
 <ul>
-
 
 <li>
 <b>Topological fingerprints for Audio Identification.</b>
