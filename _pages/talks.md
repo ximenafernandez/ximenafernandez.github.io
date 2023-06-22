@@ -9,7 +9,7 @@ author_profile: true
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 
-<div class="vallenato">
+
 
 <ul>
 <li>
@@ -98,7 +98,7 @@ author_profile: true
 <br>
 
 
-%%%%%%%%%%%%2022
+<div class="vallenato">
 <div class="vallenato-header">
 2022
 </div><!--/.vallenato-header-->
@@ -180,9 +180,10 @@ author_profile: true
 </li>
 </ul>
 </div>
+</div><!--/.vallenato-->
 
 <br>
-%%%%%%%%%%%%2021
+
 
 <ul>
 <li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
@@ -301,7 +302,6 @@ Contributed paper, 37th European Workshop on Computational Geometry (<a href="ht
 </li>
 </ul>
 
-</div><!--/.vallenato-->
 
 <script>
 $(document).ready(function() {
