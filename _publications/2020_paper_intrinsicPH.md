@@ -3,7 +3,7 @@ title: "<span style='font-size: 20px'> Intrinsic persistent homology via density
 collection: publications
 permalink: /publication/2020_paper_intrinsicPH
 date: 2023-01-01
-venue: Journal of Machine Learning Research (to appear)
+venue: Journal of Machine Learning Research 24(75):1−42
 #paperurl: 
 link: 'https://www.jmlr.org/papers/v24/21-1044.html'
 #citation: 'Fernández, X.; Borghini, E.;  Mindlin, G. ; Groisman, P.(2023). &quot;Intrinsic persistent homology via density-based metric learning.&quot; <i>Journal of Machine Learning Research  24(75):1−42, 2023.</i>
