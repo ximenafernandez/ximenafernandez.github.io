@@ -2,7 +2,7 @@
 title: "<span style='font-size: 20px'> Modeled grid cells aligned by a flexible attractor."
 collection: publications
 permalink: /publication/2022_paper_gridcells
-date: 2022-07-01
+date: 2023-07-01
 venue: 'eLife (to appear)'
 link: 'https://www.biorxiv.org/content/10.1101/2022.06.13.495956v1'
 ---
