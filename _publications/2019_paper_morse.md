@@ -6,7 +6,7 @@ date: 2023-02-01
 venue: Transactions of the AMS (accepted)
 #paperurl: 'http://ximena_fernandez.github.io/files/paper_morse.pdf'
 link: 'https://arxiv.org/abs/1912.00115'
-#citation: 'Fernández, X. (2023) &quot;Morse theory for group presentations.&quot; <i>Transactions of the AMS (accepted)</i>'
+#citation: 'Fernández, X. (2023) &quot;Morse theory for group presentations.&quot; <i>Transactions of the AMS (to appear)</i>'
 ---
 
 <p style="font-size:11pt; font-style:italic">
