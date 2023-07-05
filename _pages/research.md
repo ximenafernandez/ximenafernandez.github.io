@@ -7,7 +7,7 @@ author_profile: true
 
 My PhD thesis is about:
 
-* ['Combinatorial methods and algorithms in low-dimensional topology and the Andrews-Curtis conjecture'. ](http://cms.dm.uba.ar/academico/carreras/doctorado/Tesis_Ximena_Fernandez.pdf) University of Buenos Aires (2017). 
+* ['Combinatorial methods and algorithms in low-dimensional topology and the Andrews-Curtis conjecture'.](http://cms.dm.uba.ar/academico/carreras/doctorado/Tesis_Ximena_Fernandez.pdf)  University of Buenos Aires (2017). 
 
 My current research interests fall into two main areas: 
 * Applied Algebraic Topology and Geometry,
