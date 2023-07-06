@@ -8,7 +8,7 @@ author_profile: true
 <ul>
 
 <li>
-<b>Topological fingerprints for Audio Identification.</b>
+<b>Density-based metric learning and applications to TDA.</b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">July 6, 2023.</span>
