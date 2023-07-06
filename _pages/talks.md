@@ -6,6 +6,19 @@ author_profile: true
 ---
 
 <ul>
+
+<li>
+<b>Topological fingerprints for Audio Identification.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">July 6, 2023.</span>
+<i>Invited talk</i>, <a href="https://ncm29.math.aau.dk">Nordic Congress of Mathematicians,</a> Aalborg University, Denmark.
+<br>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_NCM.html#/">(Slides)</a>
+</span>
+</li>
+
+
 <li>
 <b>Topological fingerprints for Audio Identification.</b>
 <br>
