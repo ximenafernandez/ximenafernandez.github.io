@@ -1,8 +1,8 @@
 ---
-title: "<span style='font-size: 20px'> Topological fingerprints for Audio Identification"
+title: "<span style='font-size: 20px'> Topological Fingerprints for Audio Identification"
 collection: publications
 permalink: /publication/2023_paper_audioid
-date: 2023-07-01
+date: 2023-09-07
 venue: 'arXiv:2309.03516'
 link: 'https://arxiv.org/abs/2309.03516'
 ---
