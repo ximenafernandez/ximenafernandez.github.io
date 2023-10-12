@@ -58,6 +58,6 @@ Project: <i>Reconstruction of Surfaces from High Dimensional Point Clouds and Ap
 * Torcuato DiTella University (2016-2017)
 
 
-### (Senior) Tutor Teaching Assistant
+### (Senior) Teaching Assistant  (equiv. tutor)
 * University of Buenos Aires (2007-2020)
 
