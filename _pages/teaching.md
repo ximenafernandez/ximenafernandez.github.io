@@ -43,12 +43,17 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 Project: <i>Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i> 
 
 ## Teaching
+
+### Tutor
+* University of Oxford (Michaelmas 2023)
+
+
 ### Lecturer
 
 * University of San Andres (2020)
 * Torcuato DiTella University (2016-2017)
 
 
-### (Lead) Teaching Assistant
+### (Senior) Tutor Teaching Assistant
 * University of Buenos Aires (2007-2020)
 
