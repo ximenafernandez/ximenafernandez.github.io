@@ -39,17 +39,20 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 
 * Leo Zhang (Imperial College of London) 
 <br>
-<b>LMS Undergraduate Research Bursary 2022</b> (July-August 2022, 8 weeks), with J. Giansiracusa. 
+<b>Summer Research Internship, LMS Undergraduate Research Bursary 2022</b> (July-August 2022, 8 weeks), joint supervision with J. Giansiracusa. 
+<br>
 Project: <i>Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i> 
 
 * Lola Menalled (University of Buenos Aires) 
 <br>
-<b>Thesis for the Licenciate in Mathematics</b>
+<b>Thesis for the Licenciate in Mathematics</b>. Expected viva: March 2023.
+<br>
+Project: <i>Persistent homology of relations: from Dowker's theorem to the analysis of neural data.</i> 
 
 ## Teaching
 
 ### Tutor
-* University of Oxford (Michaelmas 2023)
+* University of Oxford (Michaelmas 2023, Hilary 2024)
 
 
 ### Lecturer

@@ -23,11 +23,3 @@ my Ph.D in Mathematics from the
 [software](code) in SAGE and GAP related to the theory of Finite Topological Spaces. I also did a postdoc at Swansea/Durham Universities with [Jeffrey Giansuracusa](https://sites.google.com/view/jeffreygiansiracusa/home), working on density-based methods in manifold learning, and its applications to the study of high dimensional dynamical systems.
 
 
-**Upcoming talks**
-<ul>
-<li><b>GEOTOP-A Seminar.</b>
-13 October 2023. Online.</li>
-<li><b>Coloquio Iberoamericano de Algebra y Teoria de Nudos. </b>
-27 October 2023. Online.</li>
-</ul>
-
