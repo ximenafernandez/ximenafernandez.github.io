@@ -7,6 +7,70 @@ author_profile: true
 
 <ul>
 
+
+<li>
+<b>Topological fingerprints for audio identification.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">December, 2023.</span>
+<i>Invited talk</i>, Colloquium Department of Mathematics, University of Buenos Aires, Argentina.
+</li>
+
+<li>
+<b>Density-based persistent homology and applications to time-series analysis.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">December, 2023.</span>
+<i>Invited talk</i>, Maths meet Biology. Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.
+</li>
+
+<li>
+<b>Topological fingerprints for audio identification.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">November, 2023.</span>
+<i>Invited talk</i>, <a href="https://www.maths.ox.ac.uk/node/65815">Stats meets Math Colloquium,</a> Mathematical Institute, University of Oxford, UK.
+<br>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_Oxford.html#/">(Slides)</a>
+</li>
+
+
+
+<li>
+<b>Morse theory for group presentations and applications to persistence.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">October, 2023.</span>
+<i>Invited talk</i>, Ibero-American Colloquium on Algebra and Knot Theory.
+<br>
+<a href="https://www.youtube.com/watch?v=qRDfTPZd92I&t=1s">(Video)</a>
+</span>
+</li>
+
+
+<li>
+<b>Fermat principle in Riemannian geometry.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">October, 2023.</span>
+<i>Invited talk</i>, GEOTOP-A Seminar.
+<br>
+<a href="https://www.youtube.com/watch?v=SxYSzAywDus">(Video)</a>
+</span>
+</li>
+
+
+<li>
+<b>Topological biomarkers for real-time detection of epileptic seizures.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">August, 2023.</span>
+<i>Invited talk</i>, Systems Medicine Seminar,  University of Florida, USA.
+</span>
+</li>
+
+
+
 <li>
 <b>Density-based metric learning and applications to TDA.</b>
 <br>
