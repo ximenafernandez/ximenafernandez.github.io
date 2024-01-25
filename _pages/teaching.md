@@ -41,13 +41,13 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 <br>
 <b>Summer Research Internship, LMS Undergraduate Research Bursary 2022</b> (July-August 2022, 8 weeks), joint supervision with J. Giansiracusa. 
 <br>
-Project: <i>Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i> 
+<span style="font-size: 14px">Project: <i>Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i> </span>
 
 * Lola Menalled (University of Buenos Aires) 
 <br>
 <b>Thesis for the Licenciate in Mathematics</b>. Expected viva: March 2023.
 <br>
-Project: <i>Persistent homology of relations: from Dowker's theorem to the analysis of neural data.</i> 
+<span style="font-size: 14px"> Project: <i>Persistent homology of relations: from Dowker's theorem to the analysis of neural data.</i> </span>
 
 ## Teaching
 

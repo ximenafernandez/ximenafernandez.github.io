@@ -14,6 +14,7 @@ author_profile: true
 <span style="font-size: 14px">
 <span style = "color: grey">December, 2023.</span>
 <i>Invited talk</i>, Colloquium Department of Mathematics, University of Buenos Aires, Argentina.
+</span>
 </li>
 
 <li>
@@ -22,6 +23,7 @@ author_profile: true
 <span style="font-size: 14px">
 <span style = "color: grey">December, 2023.</span>
 <i>Invited talk</i>, Maths meet Biology. Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.
+</span>
 </li>
 
 <li>
@@ -32,6 +34,7 @@ author_profile: true
 <i>Invited talk</i>, <a href="https://www.maths.ox.ac.uk/node/65815">Stats meets Math Colloquium,</a> Mathematical Institute, University of Oxford, UK.
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_Oxford.html#/">(Slides)</a>
+</span>
 </li>
 
 
