@@ -2,11 +2,11 @@
 title: "<span style='font-size: 20px'> Morse theory for group presentations"
 collection: publications
 permalink: /publication/2019_paper_morse
-date: 2023-02-01
+date: 2024-02-14
 venue: Transactions of the AMS (to appear)
 #paperurl: 'http://ximena_fernandez.github.io/files/paper_morse.pdf'
-link: 'https://arxiv.org/abs/1912.00115'
-#citation: 'Fernández, X. (2023) &quot;Morse theory for group presentations.&quot; <i>Transactions of the AMS (to appear)</i>'
+link: 'https://doi.org/10.1090/tran/8958'
+#citation: 'Fernández, X. (2023) &quot;Morse theory for group presentations.&quot; <i>Trans. Amer. Math. Soc. 377 (2024), 2495-2523 </i>'
 ---
 
 <p style="font-size:11pt; font-style:italic">
