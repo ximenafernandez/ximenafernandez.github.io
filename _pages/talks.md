@@ -12,6 +12,18 @@ author_profile: true
 <b>Topological fingerprints for audio identification.</b>
 <br>
 <span style="font-size: 14px">
+<span style = "color: grey">July, 2024.</span>
+<i>Invited talk</i>, 9th European Congress of Mathematics, Universidad de Sevilla, Espa\~na.
+<br>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_ECM.html#/">(Slides)</a>
+
+</span>
+</li>
+
+<li>
+<b>Topological fingerprints for audio identification.</b>
+<br>
+<span style="font-size: 14px">
 <span style = "color: grey">December, 2023.</span>
 <i>Invited talk</i>, Colloquium Department of Mathematics, University of Buenos Aires, Argentina.
 </span>
