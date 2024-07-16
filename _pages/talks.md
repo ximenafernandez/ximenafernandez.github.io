@@ -13,7 +13,7 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">July, 2024.</span>
-<i>Invited talk</i>, 9th European Congress of Mathematics, Universidad de Sevilla, Espa\~na.
+<i>Invited talk</i>, 9th European Congress of Mathematics, Universidad de Sevilla, Spain.
 <br>
 <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_ECM.html#/">(Slides)</a>
 
