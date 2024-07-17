@@ -5,7 +5,7 @@ permalink: /publication/2019_paper_morse
 date: 2024-02-14
 venue: Trans. Amer. Math. Soc. 377 (2024), 2495-2523
 #paperurl: 'http://ximena_fernandez.github.io/files/paper_morse.pdf'
-link: 'https://doi.org/10.1090/tran/8958'
+link: 'https://www.ams.org/journals/tran/2024-377-04/S0002-9947-2024-08958-4/home.html'
 #citation: 'Fernández, X. (2023) &quot;Morse theory for group presentations.&quot; <i>Trans. Amer. Math. Soc. 377 (2024), 2495-2523 </i>'
 ---
 
