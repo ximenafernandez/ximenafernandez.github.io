@@ -3,7 +3,7 @@ title: "<span style='font-size: 20px'> Modeled grid cells aligned by a flexible 
 collection: publications
 permalink: /publication/2022_paper_gridcells
 date: 2023-09-01
-venue: 'eLife12:RP89851 '
+venue: 'eLife12:RP89851'
 link: 'https://doi.org/10.7554/eLife.89851.1'
 ---
 
