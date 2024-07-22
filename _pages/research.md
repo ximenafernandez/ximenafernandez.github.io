@@ -15,6 +15,8 @@ My current research interests fall into two main areas:
 
 I am specially interested in Topological Data Analysis, Geometric Inference and Homotopy Theory.
 
+I am co-organizing the [London-Oxford TDA Seminar. ](https://sites.google.com/view/londoxtda/home )  
+
 ## Publications & preprints
 
 <nbsp>
