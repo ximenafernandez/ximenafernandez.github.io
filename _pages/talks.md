@@ -7,6 +7,17 @@ author_profile: true
 
 <ul>
 
+<li>
+<b>Applying persistent homology in the music industry.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">August, 2024.</span>
+<i>Invited talk</i>, SPIRES 2024, University of Oxford, UK.
+<br>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_SPIRES.html#/">(Slides)</a>
+
+</span>
+</li>
 
 <li>
 <b>Topological fingerprints for audio identification.</b>
