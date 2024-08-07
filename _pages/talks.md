@@ -30,6 +30,33 @@ author_profile: true
 </li>
 
 <li>
+<b>Morse theory for group presentations and applications.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">June, 2024.</span>
+<i>Invited talk</i>, Applied Topology Seminar, University of Oxford, UK.
+</span>
+</li>
+
+<li>
+<b>Topological fingerprints for audio identification.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">June, 2024.</span>
+<i>Invited talk</i>, Complexity Workshop, Keble College, University of Oxford, UK.
+</span>
+</li>
+
+<li>
+<b>Topological fingerprints for audio identification.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">June, 2024.</span>
+<i>Invited talk</i>, British Applied Mathematics Colloquium, Newcastle University, UK.
+</span>
+</li>
+
+<li>
 <b>Topological fingerprints for audio identification.</b>
 <br>
 <span style="font-size: 14px">
