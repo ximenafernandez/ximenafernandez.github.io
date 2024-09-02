@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ximena Fernández"
   avatar           : "Foto_Durham.jpg"
-  bio              : "Postdoctoral Research Associate"
-  location         : "University of Oxford, UK"
+  bio              : "Lecturer"
+  location         : "City Unversity of London, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jAXDxfYAAAAJ&hl=es"
-  email            : "ximena.fernandez@maths.ox.ac.uk"
+  email            : "ximena.fernandez@city.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
