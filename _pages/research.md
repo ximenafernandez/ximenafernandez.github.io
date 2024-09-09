@@ -13,8 +13,9 @@ My current research interests fall into two main areas:
 * Applied Algebraic Topology and Geometry,
 * Computational and Combinatorial Topology.
 
-I am specially interested in Topological Data Analysis, Geometric Inference and  Manifold Learning methods.
+I am specially interested in Topological Data Analysis, Geometric Inference and Homotopy Theory.
 
+I am co-organizing the [London-Oxford TDA Seminar. ](https://sites.google.com/view/londoxtda/home )  
 
 ## Publications & preprints
 

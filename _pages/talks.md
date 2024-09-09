@@ -7,6 +7,54 @@ author_profile: true
 
 <ul>
 
+<li>
+<b>Applying persistent homology in the music industry.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">August, 2024.</span>
+<i>Invited talk</i>, SPIRES 2024, University of Oxford, UK.
+<br>
+<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_SPIRES.html#/">(Slides)</a>
+
+</span>
+</li>
+
+<li>
+<b>Topological fingerprints for audio identification.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">July, 2024.</span>
+<i>Invited talk</i>, 9th European Congress of Mathematics, Universidad de Sevilla, Spain.
+
+</span>
+</li>
+
+<li>
+<b>Morse theory for group presentations and applications.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">June, 2024.</span>
+<i>Invited talk</i>, Applied Topology Seminar, University of Oxford, UK.
+</span>
+</li>
+
+<li>
+<b>Topological fingerprints for audio identification.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">June, 2024.</span>
+<i>Invited talk</i>, Complexity Workshop, Keble College, University of Oxford, UK.
+</span>
+</li>
+
+<li>
+<b>Topological fingerprints for audio identification.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">June, 2024.</span>
+<i>Invited talk</i>, British Applied Mathematics Colloquium, Newcastle University, UK.
+</span>
+</li>
 
 <li>
 <b>Topological fingerprints for audio identification.</b>

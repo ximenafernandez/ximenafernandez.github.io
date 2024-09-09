@@ -11,15 +11,6 @@ redirect_from:
 {% include base_path %}
 
 
+Hi! I am a Lecturer in the Department of Mathematics at City, University of London. My research interests focus on Applied Algebraic Topology, Homotopy Theory, and Topological Data Analysis. While I emphasize theoretical methods, much of my current research is motivated by real-life applications.
 
-Hi! I am a postdoc at
-[University of Oxford](https://www.maths.ox.ac.uk/people/ximena.fernandez), working with [Heather Harrington](https://www.maths.ox.ac.uk/people/heather.harrington) at the [Biology Algebraic Systems Research Group](http://people.maths.ox.ac.uk/harrington/). My [research interests](research) concentrate  on Applied Algebraic Topology, Topological Data Analysis, Dynamical Systems and Neuroscience. While I focus on the theoretical methods, most of my current research is motivated by applications in real life problems. 
-
-
-
-I earned
-my Ph.D in Mathematics from the
-[University of Buenos Aires](http://web.dm.uba.ar/), under the supervision of [Elías Gabriel Minian](http://mate.dm.uba.ar/~gminian/). In my [thesis](http://cms.dm.uba.ar/academico/carreras/doctorado/Tesis_Ximena_Fernandez.pdf), I approached different classical problems in low dimensional Algebraic Topology from a combinatorial and computational point of view. In particular, I developed 
-[software](code) in SAGE and GAP related to the theory of Finite Topological Spaces. I also did a postdoc at Swansea/Durham Universities with [Jeffrey Giansuracusa](https://sites.google.com/view/jeffreygiansiracusa/home), working on density-based methods in manifold learning, and its applications to the study of high dimensional dynamical systems.
-
-
+I earned my Ph.D. in Mathematics from the University of Buenos Aires, under the supervision of Elías Gabriel Minian. In my thesis, I addressed various classical problems in low-dimensional Algebraic Topology from combinatorial and computational perspectives. After working as a data scientist for two years in Argentina, I joined the UK Centre for Topological Data Analysis, holding postdoctoral positions at Swansea/Durham Universities with Jeffrey Giansuracusa and later at the University of Oxford with Heather Harrington. My research focused on methods and applications based on algebraic topology and geometry for data analysis in fields such as neuroscience and dynamics.
