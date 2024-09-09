@@ -51,7 +51,7 @@ author_profile: true
 <b>Topological fingerprints for audio identification.</b>
 <br>
 <span style="font-size: 14px">
-<span style = "color: grey">June, 2024.</span>
+<span style = "color: grey">April, 2024.</span>
 <i>Invited talk</i>, British Applied Mathematics Colloquium, Newcastle University, UK.
 </span>
 </li>
