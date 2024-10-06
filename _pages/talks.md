@@ -8,6 +8,24 @@ author_profile: true
 <ul>
 
 <li>
+<b>Density-based Topology Learning from Data.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">October, 2024.</span>
+<i>Invited talk</i>, Statistics and Data Acience Seminar, Queen Mary University, London, UK.
+</span>
+</li>
+
+<li>
+<b>Topology and Geometry from Data.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">August, 2024.</span>
+<i>Invited talk</i>, Astrophysics Seminar, University of Nagoya, Japan.
+</span>
+</li>
+
+<li>
 <b>Applying persistent homology in the music industry.</b>
 <br>
 <span style="font-size: 14px">
