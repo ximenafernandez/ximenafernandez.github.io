@@ -37,29 +37,37 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 
 ## Mentoring
 
+* Adam Cutts (University of Oxford) 
+<br>
+<b>Summer Research project, funded by Balliol College</b> (July-August 2024, 8 weeks). 
+<br>
+<span style="font-size: 14px">Project: <i>Topology of Fluids and Chaos</i> <a href="https://github.com/adamcutts/dynamical_systems_homology"> Github repository.</a></span>
+
+
+* Lola Menalled (University of Buenos Aires) 
+<br>
+<b>Thesis for the Licenciate in Mathematics</b>. Viva: March 2023.
+<br>
+<span style="font-size: 14px"> Project: <i>Persistent homology of relations: from Dowker's theorem to the analysis of neural data.</i> </span>
+
 * Leo Zhang (Imperial College of London) 
 <br>
 <b>Summer Research Internship, LMS Undergraduate Research Bursary 2022</b> (July-August 2022, 8 weeks), joint supervision with J. Giansiracusa. 
 <br>
-<span style="font-size: 14px">Project: <i>Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i> </span>
-
-* Lola Menalled (University of Buenos Aires) 
-<br>
-<b>Thesis for the Licenciate in Mathematics</b>. Expected viva: March 2023.
-<br>
-<span style="font-size: 14px"> Project: <i>Persistent homology of relations: from Dowker's theorem to the analysis of neural data.</i> </span>
+<span style="font-size: 14px">Project: <i>Reconstruction of Surfaces from High Dimensional Point Clouds and Applications to Data Analysis</i>  <a href="https://github.com/shesturnedtheweansagainstus/quotient_rml"> Github repository.</a></span>
 
 ## Teaching
+
+### Lecturer
+* City University of London (since Fall 2024 to Present)
 
 ### Tutor
 * University of Oxford (Michaelmas 2023, Hilary 2024)
 
 
 ### Lecturer
-
 * University of San Andres (2020)
 * Torcuato DiTella University (2016-2017)
-
 
 ### (Senior) Teaching Assistant  (equiv. tutor)
 * University of Buenos Aires (2007-2020)
