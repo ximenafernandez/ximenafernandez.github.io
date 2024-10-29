@@ -39,7 +39,7 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 
 * Adam Cutts (University of Oxford) 
 <br>
-<b>Summer Research project, funded by Balliol College</b> (July-August 2024, 8 weeks). 
+<b>Summer Research Project, funded by Balliol College</b> (July-August 2024, 8 weeks). 
 <br>
 <span style="font-size: 14px">Project: <i>Topology of Fluids and Chaos.</i> <a href="https://github.com/adamcutts/dynamical_systems_homology"> Github repository.</a></span>
 
@@ -59,14 +59,14 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 ## Teaching
 
 ### Lecturer
-* City University of London, UK (since Fall 2024 to Present)
-* University of San Andres, Argentina (2020)
-* Torcuato DiTella University, Argentina (2016-2017)
+* <b>City University of London</b>, UK (since Fall 2024 to Present)
+* <b>University of San Andres</b>, Argentina (2020)
+* <b>Torcuato DiTella University</b>, Argentina (2016-2017)
 
 ### Tutor
-* University of Oxford, UK (Michaelmas 2023, Hilary 2024)
+* <b>University of Oxford</b>, UK (Michaelmas 2023, Hilary 2024)
 
 
 ### (Senior) Teaching Assistant 
-* University of Buenos Aires, Argentina (2007-2020)
+* <b>University of Buenos Aires</b>, Argentina (2007-2020)
 
