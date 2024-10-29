@@ -17,7 +17,7 @@ author_profile: true
 </li>
 
 <li>
-<b>Density-based Topology Learning from Data.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Fermat_Queen_Mary.html#/"> Density-based Topology Learning from Data.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">October, 2024.</span>
@@ -26,7 +26,7 @@ author_profile: true
 </li>
 
 <li>
-<b>Topology and Geometry from Data.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/TDA_Nagoya.html#/">Topology and Geometry from Data.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">August, 2024.</span>
@@ -56,7 +56,7 @@ author_profile: true
 </li>
 
 <li>
-<b>Morse theory for group presentations and applications.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_Oxford.html#/">Morse theory for group presentations and applications.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">June, 2024.</span>
@@ -65,7 +65,7 @@ author_profile: true
 </li>
 
 <li>
-<b>Topological fingerprints for audio identification.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_Keble_College.html#/">Topological fingerprints for audio identification.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">June, 2024.</span>
@@ -74,7 +74,7 @@ author_profile: true
 </li>
 
 <li>
-<b>Topological fingerprints for audio identification.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_BAMC.html#/">Topological fingerprints for audio identification.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">April, 2024.</span>
@@ -83,7 +83,7 @@ author_profile: true
 </li>
 
 <li>
-<b>Topological fingerprints for audio identification.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_UBA.html#/">Topological fingerprints for audio identification.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">December, 2023.</span>
@@ -92,7 +92,7 @@ author_profile: true
 </li>
 
 <li>
-<b>Density-based persistent homology and applications to time-series analysis.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Dresden.html#/">Density-based persistent homology and applications to time-series analysis</a>.</b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">December, 2023.</span>
@@ -101,20 +101,18 @@ author_profile: true
 </li>
 
 <li>
-<b>Topological fingerprints for audio identification.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_Oxford.html#/"> Topological fingerprints for audio identification.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">November, 2023.</span>
 <i>Invited talk</i>, <a href="https://www.maths.ox.ac.uk/node/65815">Stats meets Math Colloquium,</a> Mathematical Institute, University of Oxford, UK.
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_Oxford.html#/">(Slides)</a>
 </span>
 </li>
 
 
 
 <li>
-<b>Morse theory for group presentations and applications to persistence.</b>
+<b> <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_Nudos.html#/">Morse theory for group presentations and applications to persistence.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">October, 2023.</span>
@@ -126,7 +124,7 @@ author_profile: true
 
 
 <li>
-<b>Fermat principle in Riemannian geometry.</b>
+<b> <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_GEOTOP-A.html#/">Fermat principle in Riemannian geometry.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">October, 2023.</span>
@@ -149,48 +147,40 @@ author_profile: true
 
 
 <li>
-<b>Density-based metric learning and applications to TDA.</b>
+<b> <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_NCM.html#/">Density-based metric learning and applications to TDA.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">July 6, 2023.</span>
 <i>Invited talk</i>, <a href="https://ncm29.math.aau.dk">Nordic Congress of Mathematicians,</a> Aalborg University, Denmark.
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_NCM.html#/">(Slides)</a>
 </span>
 </li>
 
 
 <li>
-<b>Topological fingerprints for Audio Identification.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID.html#/">Topological fingerprints for Audio Identification.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">June 9, 2023.</span>
 <i>Invited talk</i>, <a href="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">TDA Centre Meeting,</a> Oxford University, London, UK.
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID.html#/">(Slides)</a>
 </span>
 </li>
 
 <li>
-<b>Intrinsic persistent homology via density-based metric learning.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_TDA_London.html#/">Intrinsic persistent homology via density-based metric learning.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">May 23, 2023.</span>
 <i>Invited talk</i>, <a href="https://www.ninaotter.com/london-tda-seminar-23052023">London TDA Seminar,</a> Queen Mary University, London, UK.
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_TDA_London.html#/">(Slides)</a>
 </span>
 </li>
 
 
 <li>
-<b>Density-based Riemannian metrics and persistent homology.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Dagstuhl.html#/">Density-based Riemannian metrics and persistent homology.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">May 10, 2023.</span>
 <i>Invited talk</i>, <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23192">Dagstuhl Seminar,</a> Germany.
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Dagstuhl.html#/">(Slides)</a>
 </span>
 </li>
 
@@ -215,43 +205,41 @@ author_profile: true
 </li>
 
 <li>
-<b>Density-based intrinsic persistent homology & applications to time series analysis.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_KTH.html#/"> Density-based intrinsic persistent homology & applications to time series analysis.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">February 28, 2023.</span>
 <i>Invited talk</i>, <a href="https://www.kth.se/math/mathematics-of-data/seminar-applied-cats-1.1009075">Applied CATS Seminar,</a> KTH University, Stockholm.
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_KTH.html#/">(Slides)</a></span>
+</span>
 </li>
 
 <li>
-<b>Intrinsic persistent homology via density-based metric learning.</b>
+<b><a href="https://arxiv.org/pdf/2012.07621.pdf">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Datashape.html#/">Intrinsic persistent homology via density-based metric learning.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">February 23, 2023.</span>
 <i>Invited talk</i>, <a href="https://team.inria.fr/datashape/seminars/">DataShape Seminar,</a> Paris-Saclay University, France.
-<br>
-<a href="https://arxiv.org/pdf/2012.07621.pdf">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Datashape.html#/">(Slides)</a></span>
+</span>
 </li>
 
 <li>
-<b>Topological biomarkers for real-time detection of epileptic seizures.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Epilepsy_Oxford.html#/">Topological biomarkers for real-time detection of epileptic seizures.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">January 27, 2023.</span>
 <i>Invited talk</i>, <a href="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">UK Centre for Topological Data Analysis</a> Group Meeting, Oxford University, UK.
 <br>
-<a href="https://arxiv.org/abs/2211.02523">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Epilepsy_Oxford.html#/">(Slides)</a></span>
+<a href="https://arxiv.org/abs/2211.02523">(Paper)</a></span>
 </li>
 
 <li>
-<b>Morse theory for group presentations.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_LowDimTop.html#/">Morse theory for group presentations.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">November 3, 2022.</span>
 <i>Invited talk</i>, <a href="https://www.ph-karlsruhe.de/tagungen/combinatorial-group-theory-and-low-dimensional-topology">3rd International Meeting on Geometric Group Theory and Low Dimensional Topology</a>, Virtual.
 <br>
-<a href="https://arxiv.org/abs/1912.00115">(Paper)</a ><a href="https://github.com/ximenafernandez/Finite-Topological-Spaces">(Code)</a><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_LowDimTop.html#/">(Slides)</a></span>
+<a href="https://arxiv.org/abs/1912.00115">(Paper)</a ><a href="https://github.com/ximenafernandez/Finite-Topological-Spaces">(Code)</a></span>
 </li>
 
 <li>
@@ -265,12 +253,10 @@ author_profile: true
 </span>
 </li>
 
-<li><b> From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</b>
+<li><b> <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/BrainModelling.html#/">From topological data analysis to computational brain modelling: the case studies of grid cells and epilepsy.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">June 21, 2022.</span> <i>Invited talk</i>, <a href="http://goriely.com/research/brain">Mathematical Brain Modelling Seminar (OxMBM)</a>, Oxford University, UK.
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/BrainModelling.html#/">(Slides)</a>
 </span>
 </li>
 
@@ -318,12 +304,11 @@ author_profile: true
 </span>
 </li>
 
-<li><b>Density-based intrinsic persistent homology and applications to time series analysis.</b>
+<li><b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance.html#/"> Density-based intrinsic persistent homology and applications to time series analysis.</a></b>
 <br><span style="font-size: 14px">
 <span style = "color: grey">November 19, 2021.</span>
 <i>Invited talk,</i> <a hreff="https://www1.maths.ox.ac.uk/groups/topological-data-analysis?migrdr=1">UK Centre for Topological Data Analysis</a> Group Meeting, Oxford University, UK.
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance.html#/">(Slides)</a><a href="https://arxiv.org/abs/2012.07621">(Paper)</a>
+<a href="https://arxiv.org/abs/2012.07621">(Paper)</a>
 </span>
 </li>
 
@@ -338,14 +323,12 @@ Invited talk, Geometry and Topology Seminar, Durham University, UK
 </span>
 </li>
 
-<li><b>Topological time series analysis.</b>
+<li><b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/TimeSeries.html#/"> Topological time series analysis.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">
  October 13, 2021.</span>
 Invited talk, Applied Math Seminar, Durham University, UK
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/TimeSeries.html#/">(Slides)</a>
 </span>
 </li>
 
