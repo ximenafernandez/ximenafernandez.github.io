@@ -8,11 +8,20 @@ author_profile: true
 <ul>
 
 <li>
+<b> <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/City_Seminar_2024.html#/">Computational Topology for Data Analysis.</a></b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">October, 2024.</span>
+<i>Invited talk</i>, Math Departament Seminar, City University of London, UK.
+</span>
+</li>
+
+<li>
 <b>Density-based Topology Learning from Data.</b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">October, 2024.</span>
-<i>Invited talk</i>, Statistics and Data Acience Seminar, Queen Mary University, London, UK.
+<i>Invited talk</i>, Statistics and Data Science Seminar, Queen Mary University, London, UK.
 </span>
 </li>
 
@@ -26,13 +35,12 @@ author_profile: true
 </li>
 
 <li>
-<b>Applying persistent homology in the music industry.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_SPIRES.html#/">Applying persistent homology in the music industry.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">August, 2024.</span>
 <i>Invited talk</i>, SPIRES 2024, University of Oxford, UK.
-<br>
-<a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_SPIRES.html#/">(Slides)</a>
+
 
 </span>
 </li>
