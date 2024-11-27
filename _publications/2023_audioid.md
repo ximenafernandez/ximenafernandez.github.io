@@ -3,8 +3,8 @@ title: "<span style='font-size: 20px'> Topological Fingerprints for Audio Identi
 collection: publications
 permalink: /publication/2023_paper_audioid
 date: 2024-01-01
-venue: SIAM Journal on Mathematics of Data Science (accepted)
-link: 'https://arxiv.org/abs/2309.03516'
+venue: SIAM Journal on Mathematics of Data Science, Vol. 6, Iss. 3 (2024)
+link: 'https://epubs.siam.org/doi/10.1137/23M1605090'
 ---
 
 <p style="font-size:11pt;">

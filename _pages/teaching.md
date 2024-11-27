@@ -48,7 +48,7 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 <br>
 <b>Thesis for the Licenciate in Mathematics</b>. Viva: March 2023.
 <br>
-<span style="font-size: 14px"> Project: <i>Persistent homology of relations: from Dowker's theorem to the analysis of neural data.</i> </span>
+<span style="font-size: 14px"> <a href="https://web.dm.uba.ar/files/tesis_lic/2024/LopezMenalled.pdf"> Thesis:</a> <i>Persistent homology of relations: from Dowker's theorem to the analysis of neural data.</i> </span>
 
 * Leo Zhang (Imperial College of London) 
 <br>
