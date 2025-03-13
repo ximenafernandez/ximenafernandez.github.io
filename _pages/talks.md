@@ -73,7 +73,7 @@ author_profile: true
 </li>
 
 <li>
-<b>Topological fingerprints for audio identification.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/AudioID_ECM.html#/"> Topological fingerprints for audio identification.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">July, 2024.</span>
