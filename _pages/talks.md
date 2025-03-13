@@ -8,7 +8,7 @@ author_profile: true
 <ul>
 
 <li>
-<b> Strong Morse Theory.</a></b>
+<b> Strong Morse Theory.</b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">March, 2025.</span>
@@ -39,7 +39,7 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">October, 2024.</span>
-<i>Invited talk</i>, Math Departament Seminar, City University of London, UK.
+<i>Invited talk</i>, Math Department Seminar, City University of London, UK.
 </span>
 </li>
 
@@ -213,7 +213,7 @@ author_profile: true
 
 
 <li>
-<b>Density-based distance learning and applications to topological data analysis.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_UDELAR.html#/"> Density-based distance learning and applications to topological data analysis.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">April 14, 2023.</span>
@@ -223,7 +223,7 @@ author_profile: true
 
 
 <li>
-<b>Morse theory for group presentations & applications to the persistent fundamental group.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_CIMAT.html#/"> Morse theory for group presentations & applications to the persistent fundamental group.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">March 8, 2023.</span>
@@ -270,13 +270,13 @@ author_profile: true
 </li>
 
 <li>
-<b>Morse theory for group presentations and the persistent fundamental group.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FMorse_AATRN.html#/"> Morse theory for group presentations and the persistent fundamental group.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">July 20, 2022.</span>
 <i>Invited talk</i>, <a href="https://www.aatrn.net">Applied Topology Seminar</a>, AATRN Youtube Channel, Online.
 <br>
-<a href="https://arxiv.org/abs/1912.00115">(Paper)</a ><a href="https://github.com/ximenafernandez/Finite-Topological-Spaces">(Code)</a><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_AATRN.html#/">(Slides)</a><a href=" https://www.youtube.com/watch?v=f62fRQdizAI">(Video)</a>
+<a href="https://arxiv.org/abs/1912.00115">(Paper)</a ><a href="https://github.com/ximenafernandez/Finite-Topological-Spaces">(Code)</a><a href=" https://www.youtube.com/watch?v=f62fRQdizAI">(Video)</a>
 </span>
 </li>
 
