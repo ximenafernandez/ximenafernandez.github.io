@@ -8,6 +8,33 @@ author_profile: true
 <ul>
 
 <li>
+<b> Strong Morse Theory.</a></b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">March, 2025.</span>
+<i>Invited talk</i>, Topology Seminar, Northeastern University, US.
+</span>
+</li>
+
+<li>
+<b> <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Kings.html#/">The Fermat Principle in Riemannian Geometry.</a></b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">March, 2025.</span>
+<i>Invited talk</i>, Geometry Seminar, King's College of London, UK.
+</span>
+</li>
+
+<li>
+<b> Discrete Morse Theory (old and new).</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">November, 2024.</span>
+<i>Invited talk</i>, TDA Seminar, MPI-Dresden (Germany) & Oxford University (UK).
+</span>
+</li>
+
+<li>
 <b> <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/City_Seminar_2024.html#/">Computational Topology for Data Analysis.</a></b>
 <br>
 <span style="font-size: 14px">
