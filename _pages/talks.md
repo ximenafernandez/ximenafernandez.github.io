@@ -8,6 +8,16 @@ author_profile: true
 <ul>
 
 <li>
+<b>  <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_Santiago.html#/">Discrete Morse Theory as generalized Collapses.</b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">April, 2025.</span>
+<i>Invited talk</i>, Algebraic Topology Conference, Santiago de Compostela, Spain.
+</span>
+</li>
+
+
+<li>
 <b> Strong Morse Theory.</b>
 <br>
 <span style="font-size: 14px">
