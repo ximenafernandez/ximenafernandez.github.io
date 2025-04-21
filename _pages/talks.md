@@ -8,7 +8,7 @@ author_profile: true
 <ul>
 
 <li>
-<b>  <a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_Santiago.html#/">Discrete Morse Theory as generalized Collapses.</b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_Santiago.html#/">Discrete Morse Theory as generalized Collapses.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">April, 2025.</span>
