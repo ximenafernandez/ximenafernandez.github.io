@@ -8,7 +8,8 @@ venue: 'Discrete and Computational Geometry 63, 549–559'
 link: 'https://link.springer.com/article/10.1007/s00454-018-0028-7'
 #citation: 'Fernández, X.; Minian, E.G. (2020). &quot;The cylinder of a relation and generalized versions of the Nerve Theorem.&quot; <i>Discrete and Computational Geometry</i>. 63, pages 549–559.'
 ---
-
+<details>
+<summary><strong>Abstract</strong></summary>
 <p style="font-size:11pt;">
 (with E.G. Minian) <span style="font-style:italic"> We introduce the notion of cylinder of a relation in the context of posets, extending the 
 construction of the mapping cylinder. We establish a local-to-global
@@ -17,3 +18,4 @@ construction of the mapping cylinder. We establish a local-to-global
 simplicial complexes, suitable for covers with not necessarily contractible 
 intersections.</span>
 </p>
+</details>
