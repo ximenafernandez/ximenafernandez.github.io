@@ -18,4 +18,4 @@ I earned my Ph.D. in Mathematics from the University of Buenos Aires, under the 
 <br>
 
 I am organizing the <a href="https://sites.google.com/view/tubeneighbourhood/">TDA Tube Neighbourhood Meeting</a> on 17th July at City University of London.
-Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrxH_wUgp2PPZkFKufwzjLDQA5lA4iqQUUNUNW2eYKdyZZ6A/viewform">here</a> (free but limited spots!)!
+Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrxH_wUgp2PPZkFKufwzjLDQA5lA4iqQUUNUNW2eYKdyZZ6A/viewform">here</a>!
