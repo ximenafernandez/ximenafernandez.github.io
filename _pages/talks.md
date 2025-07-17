@@ -7,6 +7,15 @@ author_profile: true
 
 <ul>
 
+
+<li>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_Tube_Neighbourhood.html#/"> From Collapses to Discrete Morse Theory: Algorithms for Shape Simplification.</a></b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">July, 2025.</span>
+<i>Invited talk</i>, The Tube Neighborhood Meeting, City University of London
+</li>
+
 <li>
 <b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_Santiago.html#/">Discrete Morse Theory as generalized Collapses.</a></b>
 <br>
