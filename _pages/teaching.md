@@ -13,7 +13,20 @@ author_profile: true
 {% endfor %}
 -->
 
+## Publications
+
+* Book [Algebra A.](https://www.eudeba.com.ar/E-book/9789502329703/%C3%81lgebra+A) EUDEBA. ISBN 9789502329703. 
+<i>Introduction to Linear Algebra for Engineering, Computer Science and Mathematics.</i>
+
 ## Short courses
+
+<ul>
+<li><a>Persistent homology and applications (spanish).</a> Five lectures (5 hs). 
+<br>
+<b>elENA X Encuentro Nacional de Álgebra</b> <a href="https://elenax.dm.uba.ar">EMALCA Argentina 2025</a>.
+Facultad de Matemática, Astronomía, Física y Computación.
+Universidad Nacional de Córdoba, Argentina. 11 - 15 August 2025.
+</li>
 
 <ul>
 <li><a href="https://github.com/ximenafernandez/eutopia2022">Persistent homology and applications in biology.</a> Two lectures (8 hs). 

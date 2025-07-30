@@ -26,7 +26,4 @@ author_profile: true
 
 
 
-## Publications
 
-* Book [Algebra A.](https://www.eudeba.com.ar/E-book/9789502329703/%C3%81lgebra+A) EUDEBA. ISBN 9789502329703. 
-<i>Introduction to Linear Algebra for Engineering, Computer Science and Mathematics.</i>

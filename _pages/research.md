@@ -14,6 +14,8 @@ My current research interests fall into the following areas:
 * Computational Geometry,
 * Combinatorial Homotopy Theory.
 
+I have organized the [Tube Neighborhood Meeting](https://sites.google.com/view/tubeneighbourhood/) at City University of London on 17th July 2025.
+
 I am co-organizing the [London-Oxford TDA Seminar. ](https://sites.google.com/view/londoxtda/home )  
 
 ## Publications & preprints
