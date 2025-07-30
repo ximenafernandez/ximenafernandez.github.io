@@ -72,6 +72,7 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 
 ### Lecturer
 * <b>City University of London</b>, UK (since Fall 2024 to Present)
+* <b>University of Buenos Aires</b>, Argentina (Sep 2025)
 * <b>University of San Andres</b>, Argentina (2020)
 * <b>Torcuato DiTella University</b>, Argentina (2016-2017)
 
