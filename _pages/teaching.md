@@ -21,6 +21,7 @@ author_profile: true
 ## Short courses
 
 <ul>
+
 <li><a>Persistent homology and applications (spanish).</a> Five lectures (5 hs). 
 <br>
 <b>elENA X Encuentro Nacional de Álgebra</b> <a href="https://elenax.dm.uba.ar">EMALCA Argentina 2025</a>.
@@ -42,8 +43,8 @@ Université Paris Cité, Paris, France. 27 June - 6 July 2022.
 Multiscale Models and Methods in Life Sciences. 
 Universidad de Granada, Spain. 6 - 10 June 2022.
 </li>
-</ul>
 
+</ul>
 
 
 
