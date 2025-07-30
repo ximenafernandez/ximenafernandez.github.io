@@ -20,31 +20,30 @@ author_profile: true
 
 ## Short courses
 
-<ul>
 
-<li><a>Persistent homology and applications (spanish).</a> Five lectures (5 hs). 
+
+* <a>Homologia Persistente y Aplicaciones.</a> Five lectures (5 hs). 
 <br>
 <b>elENA X Encuentro Nacional de Álgebra</b> <a href="https://elenax.dm.uba.ar">EMALCA Argentina 2025</a>.
 Facultad de Matemática, Astronomía, Física y Computación.
 Universidad Nacional de Córdoba, Argentina. 11 - 15 August 2025.
-</li>
 
-<li><a href="https://github.com/ximenafernandez/eutopia2022">Persistent homology and applications in biology.</a> Two lectures (8 hs). 
+
+* *<a href="https://github.com/ximenafernandez/eutopia2022">Persistent homology and applications in biology.</a> Two lectures (8 hs). 
 <br>
 <b>EUropean TOPology Interdisciplinary Action</b> <a href="https://eutopia.unitn.eu/eutopia-summer-school-program/">(EUTOPIA) Summer School 2022</a>.
 Université Paris Cité, Paris, France. 27 June - 6 July 2022.
-</li>
 
 
-<li>
+
+* 
 <a href="https://github.com/ximenafernandez/biomat2022">Topological data analysis and applications in dynamics.</a> Three lectures (3 hs).
 <br>
 <b>International Summer School on Modeling Nature</b> <a href="https://www.modelingnature.org/international-phd-school-2022">BIOMAT 2022</a>.
 Multiscale Models and Methods in Life Sciences. 
 Universidad de Granada, Spain. 6 - 10 June 2022.
-</li>
 
-</ul>
+
 
 
 
