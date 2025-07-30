@@ -13,7 +13,8 @@ author_profile: true
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">July, 2025.</span>
-<i>Invited talk</i>, The Tube Neighborhood Meeting, City University of London
+<i>Invited talk</i>, The Tube Neighborhood Meeting, City University of London.
+</span>
 </li>
 
 <li>
