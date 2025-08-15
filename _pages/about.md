@@ -20,6 +20,6 @@ I earned my Ph.D. in Mathematics from the University of Buenos Aires, under the 
 
 * I will be an Invited Professor at the <a href="https://web.dm.uba.ar/">Math Department of the University of Buenos Aires</a>, Argentina,  teaching an intensive  course on <a href="https://sites.google.com/view/homologiapersistente">Persistent Homology and Applications</a> in September 2025.
 
-* I am teaching a short course on <b>Persistent Homology and Applications</b> at <a href="https://elenax.dm.uba.ar">elENA X Encuentro Nacional de Álgebra</a>  in Cordoba, Argentina, from 11 to 15 August 2025.
+* I am teaching a short course on <a href="https://sites.google.com/view/elena-homologia-persistente/">Persistent Homology and Applications</a> at <a href="https://elenax.dm.uba.ar">elENA X Encuentro Nacional de Álgebra</a>  in Cordoba, Argentina, from 11 to 15 August 2025.
 
 * I have organized the <a href="https://sites.google.com/view/tubeneighbourhood/">TDA Tube Neighbourhood Meeting</a> on the 17th July 2025 at City University of London.
