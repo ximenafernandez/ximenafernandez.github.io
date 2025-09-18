@@ -7,6 +7,15 @@ author_profile: true
 
 <ul>
 
+<li>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Audio_ID_Datame.html#/"> Can we hear the shape of  music?</a></b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">Sep, 2025.</span>
+<i>Invited talk</i>, DATAME, University of Buenos Aires.
+</span>
+</li>
+
 
 <li>
 <b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Morse_Tube_Neighbourhood.html#/"> From Collapses to Discrete Morse Theory: Algorithms for Shape Simplification.</a></b>
