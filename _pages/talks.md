@@ -8,7 +8,7 @@ author_profile: true
 <ul>
 
 <li>
-<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Audio_ID_Datame.html#/">  Discrete Morse Theory and Regularity: Algorithms to Simplify Complexes</a></b>
+<b>  Discrete Morse Theory and Regularity: Algorithms to Simplify Complexes</b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">Sep, 2025.</span>
