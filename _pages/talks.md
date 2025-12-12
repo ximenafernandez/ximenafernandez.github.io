@@ -8,6 +8,15 @@ author_profile: true
 <ul>
 
 <li>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Audio_ID_Datame.html#/">  Discrete Morse Theory and Regularity: Algorithms to Simplify Complexes</a></b>
+<br>
+<span style="font-size: 14px">
+<span style = "color: grey">Sep, 2025.</span>
+<i>Invited talk</i>, Algebraic Topology Seminar, University of Buenos Aires.
+</span>
+</li>
+
+<li>
 <b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/Audio_ID_Datame.html#/"> Can we hear the shape of  music?</a></b>
 <br>
 <span style="font-size: 14px">

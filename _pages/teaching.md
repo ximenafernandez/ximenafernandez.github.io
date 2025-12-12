@@ -21,6 +21,11 @@ author_profile: true
 ## Short courses
 
 
+* <a href="https://sites.google.com/view/homologiapersistente">Homologia Persistente y Aplicaciones.</a> Eight lectures (24 hs). 
+<br>
+<b>Department of Mathematics, University of Buenos Aires</b>.
+1 - 30 September 2025.
+
 
 * <a href="https://sites.google.com/view/elena-homologia-persistente/">Homologia Persistente y Aplicaciones.</a> Five lectures (5 hs). 
 <br>
