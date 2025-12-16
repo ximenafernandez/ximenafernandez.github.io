@@ -279,12 +279,13 @@ author_profile: true
 </li>
 
 <li>
-<b><a href="https://arxiv.org/pdf/2012.07621.pdf">(Paper)</a ><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Datashape.html#/">Intrinsic persistent homology via density-based metric learning.</a></b>
+<b><a href="https://ximenafernandez.github.io/reveal.js-presentations/slides/FermatDistance_Datashape.html#/">Intrinsic persistent homology via density-based metric learning.</a></b>
 <br>
 <span style="font-size: 14px">
 <span style = "color: grey">February 23, 2023.</span>
 <i>Invited talk</i>, <a href="https://team.inria.fr/datashape/seminars/">DataShape Seminar,</a> Paris-Saclay University, France.
-</span>
+<br>
+<a href="https://arxiv.org/pdf/2012.07621.pdf">(Paper)</a ></span>
 </li>
 
 <li>
