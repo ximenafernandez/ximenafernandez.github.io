@@ -54,6 +54,13 @@ Universidad de Granada, Spain. 6 - 10 June 2022.
 
 ## Mentoring
 
+* Gonzalo Ortega-Carpintero (City St George's University of London) 
+<br>
+<b>PhD Student</b> (October 2025 - Present). 
+<br>
+
+
+
 * Adam Cutts (University of Oxford) 
 <br>
 <b>Summer Research Project, funded by Balliol College</b> (July-August 2024, 8 weeks). 
